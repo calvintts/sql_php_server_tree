@@ -1,0 +1,1868 @@
+var points = [{"id":"601",
+"lat":"36.80969",
+"lng":"-119.74515",
+"title":"Red Oak",
+"dist":-1,
+"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"float: right;width: 70px;height:90px;\" src=\"https:\/\/image.ibb.co\/cCk08n\/617b89f325b85f0917e83fc2443d840c.jpg\" alt=\"1_Red_Oak\"><\/div><div id=\"desc\"><h3>Red Oak<\/h3><h4>Quercus rubra<\/h4><h4>H90', W60'<\/h4><br \/><h4>Deciduous.  Native to eastern North America.  New leaves are red, turning dark green.  Fall color is dark red, reddish brown or orange.  Deeply rooted.<\/h4><\/div><\/div>"
+  }, 
+
+{"id":"602",
+"lat":"36.8108",
+"lng":"-119.74486",
+"title":"Fern Pine",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/1UtDbHJDWoaSXkPlCtarNVBSVa7_yww1DB15F_17asHj_ckwxLE7nQ=w2400 \" alt=\"1_Fern Pine\"><\/div><div id=\"desc\"><h3>Fern Pine<\/h3><h4>Podocarpus gracilior<\/h4><h4> H60', W15'<\/h4><br \/><h4>Evergreen.  Native to Kenya, Uganda, and Ethiopia.  Round-headed or oval, with a weeping aspect.  Fine-textured foliage is bright green or dark green.  Blue, berry-like fruit.<\/h4><\/div><\/div>"
+  },
+
+{"id":"603",
+"title":"willow pittosporum",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/JcLAHzO9MBlXvTwt40fguXTEp4NIQZnjIjmEbM7KzSdiAGp0Jz96NA=w2400 \" alt=\"1_willow pittosporum\"><\/div><div id=\"desc\"><h3>willow pittosporum<\/h3><h4>Pittosporum phillyraeoides<\/h4><h4>H20', W15'<\/h4><br \/><h4>Evergreen.  Native to Australia.  Spreading, weeping habit.  Narrow, light green leaves.  Small, fragrant yellow flowers in late winter followed by spherical, deep yellow fruit.<\/h4><\/div><\/div>"
+  },
+
+{"id":"604",
+"lat":"36.81114",
+"lng":"-119.74503",
+"title":"Colorado Blue Spruce",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/IyGqBh67IAn6yxa15uDMV86tx-5XwyH-iNGuP9gYIJe9fB2LrPiu-g=w2400\" alt=\"1_Colorado Blue Spruce\"><\/div><div id=\"desc\"><h3>Colorado Blue Spruce<\/h3><h4> Picea pungens 'Glauca'<\/h4><h4> H100' ,W50' <\/h4><br \/><h4>Evergreen.  Native to the Rocky Mountains.  Pyramidal shape formed by stiff, regular, horizontal branches.  Gray-blue foliage.<\/h4><\/div><\/div>"
+  },
+
+{"id":"605",
+"lat":"36.81134",
+"lng":"-119.74507",
+"title":"Camphor Tree",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/PPeH_DufxzechqrCHBvpUjNzkpOcdPLRadxAvN3nqytil7gOstGw3A=w2400\" alt=\"1_Camphor Tree\"><\/div><div id=\"desc\"><h3>Camphor Tree<\/h3><h4> Cinnamomum camphora<\/h4><h4>H50', W30-60' <\/h4><br \/><h4>Evergreen.  Native to Japan, China, and Taiwan.  Aromatic foliage is yellow-green in winter.  Drops older leaves in March.  New foliage is pink, red, or bronze.  Fragrant, yellowish-white flowers present in May, followed by small, black fruit.  Shallowly rooted.<\/h4><\/div><\/div>"
+  },
+
+{"id":"606",
+"lat":"36.81136",
+"lng":"-119.74478",
+"title":"Carolina Cherry Laurel",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/J11wb-A85DObT8KIMlYbdE-2alafwWSXjT8cGZxVCwXaXNZ0-rooaA=w2400\" alt=\"1_Carolina Cherry Laurel\"><\/div><div id=\"desc\"><h3>Carolina Cherry Laurel<\/h3><h4> Prunus caroliniana<\/h4><h4> H15-40', W25'<\/h4><br \/><h4>Evergreen. Native to the southeastern United States.  Large shrub or medium tree.  Dense, glossy green leaves.  Clusters of creamy white, fragrant flowers in spring, followed by a profusion of cherry-like black fruit in summer.<\/h4><\/div><\/div>"
+  },
+
+{"id":"607",
+"lat":"36.81188",
+"lng":"-119.74504",
+"title":"Modesto Ash",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/oonkNTUqxHiOWggTUzScYpHKy1wLfzBULKKynNEjOHvCBFrWdCxhXA=w2400\" alt=\"1_Carolina Cherry Laurel\"><\/div><div id=\"desc\"><h3>Modesto Ash<\/h3><h4> Fraxinus velutina 'Modesto'<\/h4><h4> H50', W30'<\/h4><br \/><h4>Deciduous.  F. velutina is native to the southwestern United States.  This variety originated from a tree found in Westside Park, Modesto Calif.  Spreading habit.  Leaves divided into 3-5 lance-shaped leaflets.  Yellow fall color.<\/h4><\/div><\/div>"
+  },
+
+{"id":"608",
+"lat":"36.81303",
+"lng":"-119.74541",
+"title":"Red Maple",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com/_Bu8BiiEGv5DoKOeF_bNgToNR8WRvzlFw-g_U2cCz9WnmuEJ8wDCsw=w2400\" alt=\"1_Red Maple\"><\/div><div id=\"desc\"><h3>Red Maple<\/h3><h4>Acer rubrum<\/h4><h4> H60', W20'<\/h4><br \/><h4>Deciduous.  Native to eastern North America.  Shiny green leaves with paler undersides have 3-5 lobes.  Scarlet fall color.  Dense clusters of red flowers in March-April.  Fruit is a red, winged samara.<\/h4><\/div><\/div>"
+  },
+
+{"id":"609",
+"lat":"36.81367",
+"lng":"-119.74526",
+"title":"Colorado Spruce",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/egjvYCh5s3y2wwnnyoqLnAJ8zUDx1ImlFOEQmqGF-7wnRuWNB8y9FA=w2400\" alt=\"1_Colorado Spruc\"><\/div><div id=\"desc\"><h3>Colorado Spruc<\/h3><h4>Picea pungens<\/h4><h4> H100', W50'<\/h4><br \/><h4> Evergreen.  Native to the Rocky Mountains.  Dense, conical growth habit.  Blue-green foliage.<\/h4><\/div><\/div>"
+  },
+
+{"id":"610",
+"lat":"36.81349",
+"lng":"-119.74496",
+"title":"Afghan Pine",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/zRDZjCWeoodERyABUC7PABSlARTJ00kiw0P16qhHZ8T4v2Nei9dfRg=w2400\" alt=\"1_Afghan Pine\"><\/div><div id=\"desc\"><h3>Afghan Pine<\/h3><h4>Pinus eldarica<\/h4><h4>H30-80', W25-40'<\/h4><br \/><h4> Evergreen.  Native from southern Russia to Pakistan.  Conical to mounded growth habit.  Dark green needles, 5\" - 6\" long, in bundles of two.  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"611",
+"lat":"36.81349",
+"lng":"-119.74496",
+"title":"Canary Island Pine",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/6V3yzKyWwf6Z-EiWP9jNR5WuyuGai44z5g_kYfmy_yZZQvM155kwmQ=w2400\" alt=\"1_Afghan Pine\"><\/div><div id=\"desc\"><h3>Canary Island Pine<\/h3><h4>Pinus canariensis<\/h4><h4>H60-80', W25'<\/h4><br \/><h4> Evergreen.  Native to the Canary Islands.  Upright, conical growth habit.  Drooping branchlets of deep green needles, 9\" - 12\" long, in bundles of three.  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"612",
+"lat":"36.81326",
+"lng":"-119.74396",
+"title":"Peppermint Gum",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/1FTzsmZySBjJDhb7vw3VwEu-xx3iUW8AefqDezfQKDlSdKr2V8TzCg=w2400\" alt=\"1_Peppermint Gum\"><\/div><div id=\"desc\"><h3>Peppermint Gum<\/h3><h4>Eucalyptus nicholii<\/h4><h4>H40', W25'<\/h4><br \/><h4>  Evergreen.  Native to Australia.  Upright main trunk, rounded crown, spreading branches.  Reddish brown bark.  Narrow, light green, peppermint-scented leaves.  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"613",
+"lat":"36.81334",
+"lng":"-119.74337",
+"title":"Shiny Xylosma",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/1FTzsmZySBjJDhb7vw3VwEu-xx3iUW8AefqDezfQKDlSdKr2V8TzCg=w2400\" alt=\"1_Shiny Xylosma\"><\/div><div id=\"desc\"><h3>Shiny Xylosma<\/h3><h4>Xylosma congestum<\/h4><h4>H10-30', W to 25'<\/h4><br \/><h4>  Evergreen.  Native to southern China.  Large shrub or small tree; can be single-or multi-trunked.  Pointed oval leaves are bronze in spring, later turning dark, glossy green. Inconspicuous yellow-green flowers, in late fall, have a honey-like fragrance.<\/h4><\/div><\/div>"
+  },
+
+{"id":"614",
+"lat":"36.81392",
+"lng":"-119.74398",
+"title":"Silk Tree",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/Fd3K59y-yE4zgolJdQWeGFJy8eI7G3-o1bq_BIa7RqknJG9Iraw1gw=w2400\" alt=\"1_Silk Tree\"><\/div><div id=\"desc\"><h3>Silk Tree<\/h3><h4>Albizia julibrissin<\/h4><h4>H20-35', W15-60'<\/h4><br \/><h4>  Deciduous.  Native from Iran to central China.  Spreading, vase-shaped tree with a flat-topped crown; often multi-trunked.  Doubly compound, fernlike leaves fold up at night.  Flowers, present in May and June, are pink, fluffy balls of which the showy portion is stamens.<\/h4><\/div><\/div>"
+  },
+
+{"id":"615",
+"lat":"36.81488",
+"lng":"-119.7421",
+"title":"Babylon Weeping Willow",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/yqznV8V9MpXLlm33WeCaUECs635Tlyytuj9KesljM84-XUQhwpvVLQ=w2400\" alt=\"1_Babylon Weeping Willow\"><\/div><div id=\"desc\"><h3>Babylon Weeping Willow<\/h3><h4> Salix babylonica<\/h4><h4>H50', W50'<\/h4><br \/><h4>   Deciduous.  Native to China.  Rounded, weeping growth habit.  Bright green leaves turn yellow in fall.  Shallowly rooted.<\/h4><\/div><\/div>"
+  },
+
+  {"id":"616",
+"lat":"36.81449",
+"lng":"-119.7421",
+"title":"Kurrajong Bottle Tree",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com/dGa_Tiu7xSy1ebShBLbxJSSlQgsJUg6IhxfixCIQWR4HiPS0jJqVUg=w2400\" alt=\"1_Kurrajong Bottle Tree\"><\/div><div id=\"desc\"><h3>Kurrajong Bottle Tree<\/h3><h4> Brachychiton populneus (Sterculia diversifolia)<\/h4><h4>H30-50', W30'<\/h4><br \/><h4>   Evergreen.  Native to Australia.  Upright growth habit in youth; dense, rounded crown when mature. Broad-based, tapering trunk.  Inconspicuous, white, bell-shaped flowers are present May-June.  Clusters of woody seed pods in summer.<\/h4><\/div><\/div>"
+  },
+
+{"id":"617",
+"lat":"36.81255",
+"lng":"-119.74269",
+"title":"Aristocrat Pear",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/1VrN_q-piL2xraERUGyYzinTnh03PvY7DNzpTTwkPK8yfR5NMwJRxw=w2400\" alt=\"1_Aristocrat Pear\"><\/div><div id=\"desc\"><h3>KAristocrat Pear<\/h3><h4> Pyrus calleryana 'Aristocrat'<\/h4><h4>H40', W30'<\/h4><br \/><h4> Deciduous.  Species is native to China and Korea.  Cultivar was selected by W.T. Shaw, Independence, Kentucky.  Broadly conical growth habit.  Oval, dark green leaves have wavy margins.  Red fall color.  White flowers in umbel-like racemes, present in March.  Drought tolerant when established.<\/h4><\/div><\/div>"
+  },
+
+{"id":"618",
+"lat":"36.81229",
+"lng":"-119.7427",
+"title":"Cork Oak",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/06Y_HmduL8jtWKuJ2JvN9ByIXx39A1ow2g-Ff3ZyssO179x1GHb9hg=w2400\" alt=\"1_Cork Oak\"><\/div><div id=\"desc\"><h3>Cork Oak<\/h3><h4> Quercus suber<\/h4><h4> H70 - 100', W70' <\/h4><br \/><h4>Evergreen.  Native to the western Mediterranean region. Trunk is covered with thick, corky bark.  Dull green, toothed leaves. Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+  {"id":"619",
+"lat":"36.81207",
+"lng":"-119.74302",
+"title":"London Plane Tree",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/HfkhOm-6RLbpPkpoRY54hYPouG838OxwacPdNX5YxpAEdK_YWNgukQ=w2400\" alt=\"1_London Plane Tree\"><\/div><div id=\"desc\"><h3>London Plane Tree<\/h3><h4> Platanus x acerifolia<\/h4><h4>H40-80', W30-40'<\/h4><br \/><h4> Deciduous.  Hybrid of P. occidentalis x P. orientalis.  Exfoliating bark on main trunk reveals patterns in cream, olive, and light brown.  Large, dull green, maple-like leaves.  Bristly, ball-shaped fruit is brown.<\/h4><\/div><\/div>"
+  },
+
+  {"id":"620",
+"lat":"36.81195",
+"lng":"-119.7429",
+"title":"American Sweet Gum",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/6Vp0l5bY9nBFioiAvGpyZ19pjlOQOALJm7MvuguS6rUwT9gheLbVFA=w2400\" alt=\"1_American Sweet Gum\"><\/div><div id=\"desc\"><h3>American Sweet Gum<\/h3><h4> Liquidambar styraciflua<\/h4><h4> H60', W25'<\/h4><br \/><h4> Deciduous.  Native to the eastern and southern United States.  Upright, pyramidal growth habit.  Fall color ranges from orange to burgundy.  Fruit is a spiny ball, borne in clusters, that persists on bare branches in winter.  Shallowly routed.<\/h4><\/div><\/div>"
+},
+
+{"id":"621",
+"lat":"36.81181",
+"lng":"-119.74404",
+"title":"Olive",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/ZeqXOivmZUN8cEN31kN1QOz6mKD03Y3NnQTwpdPEc7Sbcz292huJFw=w2400\" alt=\"1_Olive\"><\/div><div id=\"desc\"><h3>Olive<\/h3><h4> Olea europaea<\/h4><h4>H30', W30' <\/h4><br \/><h4> Evergreen.  Native to the Mediterranean region.  Usually multi-trunked.  Leathery, gray-green leaves.  Small, fragrant, white flowers.  Fruit is green when young, ripening to black before dropping.  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"622",
+"lat":"36.81129",
+"lng":"-119.74382",
+"title":"Chinese Pistache",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/RUPm3gxmbZ6TqqFhV6o4HdUGBlFrDyucfUhdOiserztQLbLj0ZDA5A=w2400\" alt=\"1_Chinese Pistache\"><\/div><div id=\"desc\"><h3>Chinese Pistache<\/h3><h4>  Pistacia chinensis<\/h4><h4>H60', W50' <\/h4><br \/><h4> Native to China, Taiwan and the Philippine Islands.  Red-orange fall color.  Panicles of green to red, fragrant flowers in spring. Red fruit, maturing to blue and borne in clusters, is present in fall.  Deeply rooted. Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"646",
+"lat":"36.81412",
+"lng":"-119.74738",
+"title":"Chinese Pistache",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/vmQPByhmOzBVFsmgR2l1ut2YRShJUXjylOaS8nAFHlrqyli7DeTF6w=w2400\" alt=\"1_Chinese Pistache\><\/div><div id=\"desc\"><h3>Chinese Pistache<\/h3><h4>Pistacia shinensis<\/h4><h4>H60', W50'<\/h4><br \/><h4> Native to China, Taiwan and the Philippine Islands.  Red-orange fall color.  Panicles of green to red, fragrant flowers in spring. Red fruit, maturing to blue and borne in clusters, is present in fall.  Deeply rooted. Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"623",
+"lat":"36.81128",
+"lng":"-119.74423",
+"title":"Japanese Maple",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/M73wUSIDBKy0dTLgzBHb3hVemilqtxsBLVP976YDEHDO-OUgCuCf2Q=w2400\" alt=\"1_Japanese Maple\"><\/div><div id=\"desc\"><h3>Japanese Maple<\/h3><h4>Acer palmatum<\/h4><h4>H20-40', W25'<\/h4><br \/><h4> Deciduous.  Native to China, Japan, and Korea.  Fine-textured foliage.  Palmate, deeply lobed leaves.  New leaves are reddish, turning medium green.  Orange to red fall color.  Fruit is a winged samara.<\/h4><\/div><\/div>"
+  },
+
+{"id":"624",
+"lat":"36.8111",
+"lng":"-119.74419",
+"title":"Southern Magnolia",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/Il6ZxtUhEVzTgZ7TLn2ejKqF7nbpLpw9CJ-efPrJXpfSK41jnrInrA=w2400\" alt=\"1_Southern Magnolia\"><\/div><div id=\"desc\"><h3>Southern Magnolia<\/h3><h4>Magnolia grandiflora<\/h4><h4>H80', W40'<\/h4><br \/><h4>Evergreen.  Native to the southeastern United States.  Large leathery, dark green leaves have rust-colored undersides.  Large, fragrant, white flowers in May and June.  Fruit is a 3\" - 8\" reddish pod, splitting to reveal red-orange seeds.<\/h4><\/div><\/div>"
+  },
+
+{"id":"625",
+"lat":"36.81055",
+"lng":"-119.74411",
+"title":"Japanese Black Pine",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/bUgTadPyqORGRbgPEUoXZXT4nqk9zWOIVanMLBBbVQLzNbdMvrU4mA=w2400\" alt=\"1_Japanese Black Pine\"><\/div><div id=\"desc\"><h3>Japanese Black Pine<\/h3><h4>Pinus thunbergii<\/h4><h4>H30' (in San Joaquin Valley), W30' <\/h4><br \/><h4>Evergreen. Native to Japan.  Irregular growth habit with spreading branch structure.  Dark green needles in bundles of two.  Fruit is a 3\" shiny brown cone.<\/h4><\/div><\/div>"
+  },
+
+{"id":"626",
+"lat":"36.81047",
+"lng":"-119.74601",
+"title":"Chinese Tallow Tree, Popcorn Tree",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/VlYvP1m2hMdg4SK5kSwpQBf58ICuHX8rCUMBWiV2BaV49ft619a_6g=w2400\" alt=\"1_Chinese Tallow Tree, Popcorn Tree\"><\/div><div id=\"desc\"><h3>Chinese Tallow Tree, Popcorn Tree<\/h3><h4> Sapium sebiferum<\/h4><h4> H35', W35' <\/h4><br \/><h4>Deciduous.  Native to China.  Effect of foliage is open rather than dense.  Poplar-like leaves turn red-orange in fall.  Spikes of tiny, yellow flowers in spring.  Brown fruit capsules open to reveal white, waxy seeds that persist on the tree in winter.  Deeply rooted.  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"627",
+"lat":"36.81049",
+"lng":"-119.74635",
+"title":"Valley Oak, California White Oak",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/KZUEuT9VWCjmFkRdsMWnuEgdnHwLSq5n08NOWj4i1MQ9v7qqM7C6eQ=w2400\" alt=\"1_Valley Oak, California White Oak\"><\/div><div id=\"desc\"><h3>Valley Oak, California White Oak<\/h3><h4> Quercus lobata<\/h4><h4>H70', W70' <\/h4><br \/><h4>Deciduous.  Native to California's interior valleys, coast ranges, and Sierra Nevada foothills. Spreading growth habit.  Trunk and limbs have gray, checked bark.  Leaves are deeply lobed.  Fruit is an edible acorn.<\/h4><\/div><\/div>"
+  },
+
+  {"id":"628",
+"lat":"36.81025",
+"lng":"-119.74662",
+"title":"Crape Myrtle",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/YLzD-d4OlDpNv7ZIr0t95KtrLK97z5HPlf4HvFVInmE9iiPTXAcKGA=w2400\" alt=\"1_Crape Myrtle\"><\/div><div id=\"desc\"><h3>Crape Myrtle<\/h3><h4> Lagerstroemia indica<\/h4><h4>H6-30'<\/h4><br \/><h4>Deciduous.  Native to China.  Large shrub or small tree, can be multi-trunked.  Bark flakes off, leaving smooth, pale trunk and branches.  Red-orange fall color.  Large terminal panicles of white, pink or lavender flowers, depending on the cultivar, from June to September.  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"629",
+"lat":"36.8104",
+"lng":"-119.7466",
+"title":"Coast Live Oak, California Live Oak",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/yyihOgRbw_vb9q0xHNjImUzlUrUyhfDA-021pK7GZokeigDx2AGPsg=w2400\" alt=\"1_Coast Live Oak, California Live Oak\"><\/div><div id=\"desc\"><h3>Coast Live Oak, California Live Oak<\/h3><h4> Quercus agrifolia<\/h4><h4>H30-75', W60-100'<\/h4><br \/><h4>Evergreen.  Native to California's coast ranges.  Spreading growth habit. Rounded, toothed, dark green leaves.  Drought tolerant when established.<\/h4><\/div><\/div>"
+  },
+
+{"id":"630",
+"lat":"36.81038",
+"lng":"-119.74689",
+"title":"Foothill Pine, Gray Pine",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/9DPJI3yRB87lpzvGEg-CBvd5LIwDW62I5VP3CoADUq8xOPEuKGDJXQ=w2400\" alt=\"1_Foothill Pine, Gray Pine\"><\/div><div id=\"desc\"><h3>Foothill Pine, Gray Pine<\/h3><h4>Pinus sabiniana<\/h4><h4>H40-80', W30' <\/h4><br \/><h4>Evergreen.  Native to California's coast ranges and Sierra Nevada (elev. 100'-3,000').  Upright, with open growth habit.  Can have multiple trunks.  Needles in bundles of three.  Large cones contain edible seeds.  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+  {"id":"631",
+"lat":"36.81032",
+"lng":"-119.74678",
+"title":"Basket Oak, Chestnut Oak",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/qNPk19iohwaSAlZomZgvB4xydD--fgWScojyyTImmd3FkQMrakM5cg=w2400\" alt=\"1_Basket Oak, Chestnut Oak\"><\/div><div id=\"desc\"><h3>Basket Oak, Chestnut Oak<\/h3><h4>Quercus prinus<\/h4><h4>H100' <\/h4><br \/><h4>Deciduous.  Native to the eastern and southern United States.  Dark brown, deeply furrowed bark.  Bright green, coarsely toothed leaves have pale undersides.  Fruit is a dark brown acorn.<\/h4><\/div><\/div>"
+  },
+
+{"id":"632",
+"lat":"36.8107",
+"lng":"-119.74762",
+"title":"Japanese Red Pine",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/ch2OvKygl9UIL4Loxlhx9Qrgy4DE8lagAXtrzqQ-3qSj2g7ddiGZtw=w2400\" alt=\"1_Japanese Red Pine\"><\/div><div id=\"desc\"><h3>Japanese Red Pine<\/h3><h4>Pinus densiflora<\/h4><h4>H100' <\/h4><br \/><h4>Deciduous.  Native to northeast Asia and Japan.  Irregular, spreading growth habit.  Tree usually has two or more trunks branching from near ground level.  Bark of the trunk and main branches of younger trees is orange in color.  Needles in bundles of two.<\/h4><\/div><\/div>"
+  },
+
+{"id":"633",
+"lat":"36.80894",
+"lng":"-119.7478",
+"title":"California sycamore",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/hZ7ZbIsDS6hLFzVVXfhIg5DlkRzD6ncmNnqSUq81vrt_X7iQe0c_Bg=w2400\"alt=\"1_California sycamore\"><\/div><div id=\"desc\"><h3>California sycamore<\/h3><h4> Platanus racemosa<\/h4><h4>H40-90', W50-70'<\/h4><br \/><h4> Deciduous.  Native to stream banks in foothill areas of California and Baja California.  Multiple trunks.  Bark exfoliates to reveal patterns on inner bark.  Large leaves with 5 or 3 lobes.  Fruit is a brown, slightly shiny ball, borne in clusters.<\/h4><\/div><\/div>"
+  },
+
+{"id":"634",
+"lat":"36.8091",
+"lng":"-119.74864",
+"title":"Pecan",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/IlvopEjU9oTtFKA3VsYY3g5kY0R9-A-v9hfUTuopbDq1aZuCsamavw=w2400\" alt=\"1_Pecan\><\/div><div id=\"desc\"><h3>Pecan<\/h3><h4> Carya illinoiensis<\/h4><h4>H70', W70'<\/h4><br \/><h4> Deciduous.  Native to the central and southern United States.  Upright growth habit, oval crown.  Leaves are pinnate, with 11-17 leaflets.  Yellow fall color.  Fruit is an edible nut.<\/h4><\/div><\/div>"
+  },
+
+{"id":"635",
+"lat":"36.80929",
+"lng":"-119.74907",
+"title":"Purple Leaf Plum, Cherry Plum",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/dxBkHLBmuwcARSrFeL2JBai5si5IlW6z_vFUIY0og4TyPaw0J7Ywrg=w2400\" alt=\"1_Purple Leaf Plum, Cherry Plum\><\/div><div id=\"desc\"><h3>Purple Leaf Plum, Cherry Plum<\/h3><h4>Prunus cerasifera 'Thundercloud' <\/h4><h4> H30'<\/h4><br \/><h4> Deciduous.  Native to southwestern Asia and southeastern Europe.  Leaves of this cultivar remain purple through the summer.  Single pink flowers.  Other cultivars have green red leaf color, white flowers.  Some bear edible, plum-like fruit.<\/h4><\/div><\/div>"
+  },
+
+  {"id":"636",
+"lat":"36.81021",
+"lng":"-119.74879",
+"title":"Italian Stone Pine, Umbrella Pine",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/UGetk2MbtgBPOyZlosmOKEDfwKkQ5QMtZxCvMANXW8-cnRMlnLVzFw=w2400\" alt=\"1_Italian Stone Pine, Umbrella Pine\><\/div><div id=\"desc\"><h3>Italian Stone Pine, Umbrella Pine<\/h3><h4>Pinus pinea <\/h4><h4> H40-80', W40'-50'<\/h4><br \/><h4> Evergreen.  Native to southern Europe and Turkey.  Canopy is rounded when young and umbrella-shaped when mature.  Needles in bundle of two.  Large cone contains edible seeds (pine nuts).  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"637",
+"lat":"36.81031",
+"lng":"-119.7479",
+"title":"Bunya Bunya",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/Sn7v7w7acHBz1z2pKcES4FlUk0HFahTPhvD7onL9gTDl4Bh-ltpjkg=w2400\" alt=\"1_Bunya Bunya\><\/div><div id=\"desc\"><h3>Bunya Bunya<\/h3><h4>Araucaria bidwillii<\/h4><h4>H100', W40-60'<\/h4><br \/><h4>  Evergreen.  Native to Australia.  Conical growth habit when young; rounded crown when mature.  Sharp-tipped, lanceolate or oval leaves arranged in overlapping rows along the branches.  Produces cones up to 20 lb.<\/h4><\/div><\/div>"
+  },
+
+{"id":"638",
+"lat":"36.81078",
+"lng":"-119.74735",
+"title":"Bay Laurel, Grecian Laurel, Sweet Bay",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/QNjA9fCZe5Oax9v5k1s_vfJ9bIooN6nH2LYszMBJLB8W5YJyyAObxw=w2400\" alt=\"1_Bay Laurel, Grecian Laurel, Sweet Bay\><\/div><div id=\"desc\"><h3>Bay Laurel, Grecian Laurel, Sweet Bay<\/h3><h4>Laurus nobilis<\/h4><h4> H12-40'<\/h4><br \/><h4>Evergreen.  Native to the Mediterranean region.  Dense, rounded growth habit; slightly conical crown.  Dark green, aromatic leaves are pointed, oval, 2\"-4\" long.  Clusters of small, yellow-green flowers.  Fruit is a small, black berry.<\/h4><\/div><\/div>"
+  },
+
+{"id":"639",
+"lat":"36.81206",
+"lng":"-119.74798",
+"title":"Lombardy Poplar",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/C4IJLoj7vvmby7Z1MS1Qj60xvTvuFvoUt0B4v3fXQ5TOxWr7Z2Di7Q=w2400\" alt=\"1_Lombardy Poplar\><\/div><div id=\"desc\"><h3>Lombardy Poplar<\/h3><h4>Populus nigra 'Italica<\/h4><h4>H40-90', W10-25'<\/h4><br \/><h4> Deciduous.  Native to the Mediterranean region.  Fast-growing and short-lived.  Upright, columnar growth habit.  Yellow fall color.  Shallowly rooted.<\/h4><\/div><\/div>"
+  },
+
+
+{"id":"640",
+"lat":"36.81211",
+"lng":"-119.74798",
+"title":"Austrian Black Pine",
+"dist":-1,
+"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/Z-D9JktCQ66eq7QkwULyk6ore9Y23I42fXmB8ZyJLYZg0GKxtkPHug=w2400\" alt=\"1_Austrian Black Pine\><\/div><div id=\"desc\"><h3>Austrian Black Pine<\/h3><h4> Pinus nigra<\/h4><h4>H40', W30'<\/h4><br \/><h4> Evergreen.  Native to Europe (Austria and from northern Italy to the Balkans).  Dense growth habit, domed crown.  Trunk of older trees has a distinct pattern of brown furrows with gray, flattened ridges.  Dark green needles in bundles of two.<\/h4><\/div><\/div>"
+  },
+
+  {"id":"641",
+"lat":"36.81229",
+"lng":"-119.74774",
+"title":"Eastern Redbud",
+"dist":-1,
+"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"float: right;width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/7Jqoe9P0flEBeXF7zpTGlXL15mB8UlS03zU-p_1R0vMfH51Hwrz-Nw=w2400\" alt=\"1_Eastern_Redbud\><\/div><div id=\"desc\"><h3>Eastern Redbud<\/h3><h4>Cercis canadensis<\/h4><h4>H25-35', W20-25'<\/h4><br \/><h4>Deciduous.  Native toe eastern North America.  Rounded crown, spreading growth habit.  Large, heart-shaped leaves.  Small, rose-pink flowers cover the bare branches in early spring, followed by brown, flat, legume-like pods that persist through the winter.<\/h4><\/div><\/div>"
+  },
+
+  {"id":"642",
+"lat":"36.81254",
+"lng":"-119.74691",
+"title":"Dawn Redwood",
+"dist":-1,
+"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/7h1QyLoOyzJwMPxP8a4jOY_7zYuWncpcaM0duUL1_yGNqX6haXsPCA=w2400\" alt=\"1_Dawn Redwood\><\/div><div id=\"desc\"><h3>Dawn Redwood<\/h3><h4> Metasequoia glyptostroboides<\/h4><h4>H90', W25-35'<\/h4><br \/><h4> Deciduous conifer.Native to China.  Upright, conical growth habit.  Orange-brown bark, light bright green leaves turn bronze in fall.<\/h4><\/div><\/div>"
+  },
+
+
+{"id":"643",
+"lat":"36.81236",
+"lng":"-119.74667",
+"title":"Eley Crabapple",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/aSOXKD5cjGaNNkurBysDeLN3BC5FrYaqDbB1_WZvg_IYwxQRefK50w=w2400\" alt=\"1_Eley Crabapple\><\/div><div id=\"desc\"><h3>Eley Crabapple<\/h3><h4> Malus x purpurea \"Eleyi'<\/h4><h4>H20', W20'<\/h4><br \/><h4> Deciduous.  Hybrid origin.  Cultivar raised by and named for Charles Eley, Suffolk, England.  New foliage is purple, turning dark green when mature.  Red buds opening to pink flowers, in April.  Reddish fruit.<\/h4><\/div><\/div>"
+  },
+
+  {"id":"644",
+"lat":"36.81258",
+"lng":"-119.74647",
+"title":"Big-leaf Linden",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/NhPp8IBUmTBkfiZjO1YWMxzDVDpZk-RVPbSfKbA5CkPihhuYN33ZXg=w2400\" alt=\"1_Big-leaf Linden\><\/div><div id=\"desc\"><h3>Big-leaf Linden<\/h3><h4>Tilia platyphyllos<\/h4><h4>H30-100', W40'<\/h4><br \/><h4> Deciduous.   Native to Europe.  Broadly columnar growth habit.   Dark green leaves have paler undersides. Yellow fall color.<\/h4><\/div><\/div>"
+  },
+
+{"id":"645",
+"lat":"36.8128",
+"lng":"-119.74718",
+"title":"Yoshino flowering cherry",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/v815XuYz9nXMX5ucr03Vt16izZGGm5anC9AwB1TjjbH941BBeJonUw=w2400\" alt=\"1_Yoshino flowering cherry\><\/div><div id=\"desc\"><h3>Yoshino flowering cherry<\/h3><h4>Prunus x yedoensis 'Akebono' ('Daybreak')<\/h4><h4>H25', W30'<\/h4><br \/><h4> Deciduous.  P.x yedoensis, introduced from Japan, is believed to be a hybrid between P. speciosa x P. subhirtella or P. serrulata x P. subbirtella.  Cultivator was selected, named, and introduced by W. B. Clarke Nursery, San Jose, Calif.  Fast growing and short-lived.  Rounded, spreading habit.  Racemes of pale pink to white flowers during March-April.<\/h4><\/div><\/div>"
+  },
+
+{"id":"645",
+"lat":"36.81303",
+"lng":"-119.74717",
+"title":"Mexican Fan Palm, Thread Palm",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/6E4yPx_LWtUWtKB5-TCxsWSQFwzOAhteOz-JXAkFnv9ZzArRtS4w8g=w2400\" alt=\"1_Mexican Fan Palm, Thread Palm\><\/div><div id=\"desc\"><h3>Mexican Fan Palm, Thread Palm<\/h3><h4>Washingtonia robusta<\/h4><h4>H100'<\/h4><br \/><h4> Native to northern Mexico.  Slender, tapering trunk.  Fan-shaped, deeply lobed leaves.  Light pink flowers in long inflorescences produce copious quantities of seeds.  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+
+
+{"id":"647",
+"lat":"36.81415",
+"lng":"-119.74675",
+"title":"Deodar Cedar",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/OrDFJshok_lEA0mClILLt5ZvoKTHv5BQaG3dEc5u9EI_GlnGfZ0IjQ=w2400\" alt=\"1_Deodar Cedar\><\/div><div id=\"desc\"><h3>Deodar Cedar<\/h3><h4>Cedrus deodara<\/h4><h4>H30-100', W40-60'<\/h4><br \/><h4> Evergreen Native to the western Himalayas.  Broadly pyramidal growth habit, developing a flattened crown with age.  Spreading branches with downward-pointing tips give the tree a weeping aspect<\/h4><\/div><\/div>"
+  },
+
+
+{"id":"648",
+"lat":"36.8133",
+"lng":"-119.74675",
+"title":"Chinese Hackberry",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/VGpf6jXvB6JPjCVa4RQ2oBFSd1HmbsgC80_k7scJ6-qbwwRe_6j05Q=w2400\" alt=\"1_Chinese Hackberry\><\/div><div id=\"desc\"><h3>Chinese Hackberry<\/h3><h4>Celtis sinensis<\/h4><h4>H80-100', W40-60'<\/h4><br \/><h4>Evergreen Native to China, Korea, and Japan.  Irregular habit when young, maturing into a vase-shaped tree.  Yellow fall color.  Orange fruit, ripening to red-brown, is present in fall.  Deep-rooted.<\/h4><\/div><\/div>"
+  },
+
+{"id":"649",
+"lat":"36.81326",
+"lng":"-119.74642",
+"title":"Maidenhair Tree",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/o9cOWmDJUmtbg1Pk0u73kQyqat8qRqlE9Up4gwjGS3tBtzde1W2e8Q=w2400\" alt=\"1_Maidenhair Tree\><\/div><div id=\"desc\"><h3>Maidenhair Tree<\/h3><h4> Ginkgo biloba<\/h4><h4>H60-80', W35'<\/h4><br \/><h4>Deciduous.  Native to China.  Leaves shaped like those of maidenhair fern (flat, fan-shaped, lobed at the tip).  Golden fall color.  Only male trees are generally used in gardens; seeds of female trees have a foul-smelling covering.  Deep-rooted and drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"650",
+"lat":"36.81347",
+"lng":"-119.74625",
+"title":"Beef Wood, She-oak, Horsetail Tree",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/llh5.googleusercontent.com\/8Y-pPIU4hi6EoVkTsxqvvghyKccqmeA7Q5Ix5w4zq15nmVcKgGKwxQ=w2400\" alt=\"1_Beef Wood, She-oak, Horsetail Tree\><\/div><div id=\"desc\"><h3>Beef Wood, She-oak, Horsetail Tree<\/h3><h4>Casuarina equisetifolia<\/h4><h4>H70', W20'<\/h4><br \/><h4>Native to eastern Australia and Pacific islands.  Long, thin, green branchlets resemble pine needles.  True leaves are inconspicuous and scalelike.  Fruit is a small, woody cone.  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"651",
+"lat":"36.81325",
+"lng":"-119.74602",
+"title":"Pistachio",
+"dist":-1,
+"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/d91RBQs8IkXVCwkyxVSOrPJanaVjyiB0sZhUXDwGaiH-G5aNqXW38Q=w2400\" alt=\"1_Pistachio\><\/div><div id=\"desc\"><h3>Pistachio<\/h3><h4>Pistacia vera<\/h4><h4>H30'<\/h4><br \/><h4>Deciduous.  Native from Iran to central Asia.  Spreading growth habit.  Fruit is reddish, borne in heavy clusters.  Edible, green or yellow seeds (pistachio nuts) are within hard shells.<\/h4><\/div><\/div>"
+},
+
+{"id":"652",
+"lat":"36.81288",
+"lng":"-119.74609",
+"title":"Jelecote Pine, Mexican Weeping Pine",
+"dist":-1,
+"description":"<div id=\"infobubble\"><\/div><div id=\"desc\"><h3>Jelecote Pine, Mexican Weeping Pine<\/h3><h4>Pinus patula<\/h4><h4>H80'<\/h4><br \/><h4> Evergreen Native to Mexico.  Conical or rounded growth habit.  Light green, drooping needles in bundles of three.  Pale brown cones are 4\" long.<\/h4><\/div><\/div>"
+  },
+
+  {"id":"653",
+"lat":"36.81279",
+"lng":"-119.74612",
+"title":"Common Fig",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/dQnYHJ9b1vHs7wCjYN7nJOvdqbqizwGxD2N7n0anheIhtebHhPF-sw=w2400 \" alt=\"1_Common Fig\"><\/div><div id=\"desc\"><h3>Common Fig<\/h3><h4>Ficus carica<\/h4><h4> H15-30'<\/h4><br \/><h4>Deciduous.  Native to the eastern Mediterranean region.  Large shrub or small tree.  Trunk and branches become gnarled with age.  Large, rounded leaves have 3 or 5 deep lobes.  Edible fruit is ripe in summer.  Drought tolerant when established.<\/h4><\/div><\/div>"
+  },
+
+{"id":"654",
+"lat":"36.81276",
+"lng":"-119.746",
+"title":"Purple Robe Locust",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/Sauk73XJ7ozYBsIhQhCqv2uWkAQB5vOb9BeeqRvGRaBvSJIcajOlLg=w2400\" alt=\"1_urple Robe Locust\"><\/div><div id=\"desc\"><h3>Purple Robe Locust<\/h3><h4>Robinia x ambigua 'Purple Robe'<\/h4><h4> H40' ,W20'<\/h4><br \/><h4>Deciduous.  R. x ambigua is a hybrid between R. pseudoacacia x R. viscose.    Oval, open growth habit.  Pinnately compound leaves.  Racemes of dark rose-pink, pea-like flowers in spring.  Shallowly rooted.<\/h4><\/div><\/div>"
+  },
+
+  {"id":"655",
+"title":"Saucer Magnolia",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/mwHFpYQnIUBrcVabF2bPLu0YoLJNccJYKEywJzs5kgkG9ySKFbMjXQ=w2400\" alt=\"1_Saucer Magnolia\"><\/div><div id=\"desc\"><h3>Saucer Magnolia<\/h3><h4>Magnolia x soulangiana<\/h4><h4>H20-40', W10-30' <\/h4><br \/><h4>Deciduous.  Hybrid between M. denudate x M. liliiflora.  Spreading habit, often multi-trunked.  Large, fragrant, goblet-shaped flowers in March-April.  Petals are pink outside and whitish-inside.  Fruit is a pod that splits to reveal orange-colored seeds.  There are numerous cultivars of this tree, with a variety of flower characteristics.<\/h4><\/div><\/div>"
+  },
+
+{"id":"656",
+"lat":"36.81241",
+"lng":"-119.74602",
+"title":"Mediterranean Fan Palm, European Fan Palm",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/OTnATNABINK3vxgvYbXXoDafV8mbyFoiYclJcpIQIrYqNOoJFrYe1A=w2400\" alt=\"1_Mediterranean Fan Palm, European Fan Palm\"><\/div><div id=\"desc\"><h3>Mediterranean Fan Palm, European Fan Palm<\/h3><h4>Chamaerops humilis<\/h4><h4> H20' ,W20'<\/h4><br \/><h4>Evergreen.  Native to the Mediterranean region.  The only palm native to Europe.  Plant develops a clumping form from basal off-shoots.  Light green, fan-shaped leaves.  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"671",
+"lat":"36.81223",
+"lng":"-119.75098",
+"title":"Mediterranean Fan Palm, European Fan Palm 2",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/IvL0s3TuO1mzCc0k5b1kRIBuQDiuGVZVzLkzD-inL1cvf7oDZrho-A=w2400\" alt=\"1_Mediterranean Fan Palm, European Fan Palm\"><\/div><div id=\"desc\"><h3>editerranean Fan Palm, European Fan Palm<\/h3><h4>Chamaerops humilis<\/h4><h4>H20', W 20'<\/h4><br \/><h4> Evergreen.  Native to the Mediterranean region.  The only palm native to Europe.  Plant develops a clumping form from basal off-shoots.  Light green, fan-shaped leaves.  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"659",
+"lat":"36.81213",
+"lng":"-119.74631",
+"title":"Cabbage Palm, Palmetto Palm",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/V4z2A5OTZovl8hojHMHlVZd4h2ewxUl5En27NR-y7lduNf2t9W0WJQ=w2400\" alt=\"1_Cabbage Palm, Palmetto Palm\"><\/div><div id=\"desc\"><h3>Cabbage Palm, Palmetto Palm<\/h3><h4>Sabal palmetto<\/h4><h4>H40-50'<\/h4><br \/><h4>Evergreen.  Native to the southeastern United States and the Bahamas.  Fan-shaped, curved leaves form a dense, coarse crown.  Long panicles of cream-colored flowers in summer.<\/h4><\/div><\/div>"
+  },
+
+
+{"id":"660",
+"lat":"36.81212 ",
+"lng":"-119.74616",
+"title":"Evergreen Pear",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/_q0-ZKaZjLqzwj8JnewAhK7ofQcvFCrQQNSFTL7Q9XGcFMW2652geA=w2400\" alt=\"1_Evergreen Pear\"><\/div><div id=\"desc\"><h3>Evergreen Pear<\/h3><h4>Pyrus kawakamii<\/h4><h4>H40-50'<\/h4><br \/><h4>Evergreen.  Semi-evergreen (in Fresno).  Native to Taiwan.  Branches sometimes have thorns.  Leaves have finely serrated margins.  Fall color is yellowish-orange.  White flowers during February.  Small, inedible fruit.<\/h4><\/div><\/div>"
+  },
+
+
+{"id":"661",
+"lat":"36.81206",
+"lng":"-119.7458",
+"title":"Blue Atlas Cedar",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/-8MDfdkbka8idAJC27DRtc0CQBANk6Fs4vLY-6VjNyclNlXqz9GRyQ=w2400\" alt=\"1_Blue Atlas Cedar\"><\/div><div id=\"desc\"><h3>Blue Atlas Cedar<\/h3><h4>Cedrus atlantica 'Glauca'<\/h4><h4> H60, W30'<\/h4><br \/><h4>Evergreen.  Native to Morocco and Algeria on the foothill slopes of the Atlas mountains.  Stiff, irregular branching habit, becoming conical with age.  Silvery blue needles borne in tight clusters.  Cones borne on the upper side of branches.  Deeply rooted.<\/h4><\/div><\/div>"
+  },
+
+{"id":"662",
+"lat":"36.81155",
+"lng":"-119.74609",
+"title":"Pindo palm, jelly palm",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/DXplOVh2pLZSI10zRuSd1M2GgvmzszDKpIdojSwkK0QwtNRs7_O9fQ=w2400\" alt=\"1_Pindo palm, jelly palm\"><\/div><div id=\"desc\"><h3>Pindo palm, jelly palm<\/h3><h4>Butia capitata, Pindo palm<\/h4><h4>H20'<\/h4><br \/><h4>Evergreen.  Native to South America.  Thick-trunked.  Arching, feathery, gray-green fronds curve downward toward the trunk.  Long panicles of yellow flowers.  Orange, edible fruit.  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"663",
+"lat":"36.811",
+"lng":"-119.74605",
+"title":"Chaste Tree, Hemp Tree",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/_vmNnTAMeG7vsEqmFIPhwVu2jjgpykjybwTa7Hzq1yki7ZzZ3ck-tQ=w2400\" alt=\"1_Chaste Tree, Hemp Tree\"><\/div><div id=\"desc\"><h3>Chaste Tree, Hemp Tree<\/h3><h4>Vitex agnus-castus<\/h4><h4>H8'-25'<\/h4><br \/><h4>Deciduous.  Native from southern Europe to western Asia.  Shrub-like, often multi-trunked tree.  Open, spreading habit.  Dark green, palmate leaves have 5-7 leaflets.  Upright, terminal panicles of small, lavender-blue flowers in summer and sometimes again in autumn.  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"664",
+"lat":"36.8114",
+"lng":"-119.74986",
+"title":"Jacaranda",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/BW3pHZ-09C958V1ui-4PM2yZ_G3hlC7CcXTRa2A5Ejme89oSlC4GNg=w2400\" alt=\"1_Jacaranda\"><\/div><div id=\"desc\"><h3>Jacaranda<\/h3><h4> Jacaranda mimosifolia<\/h4><h4>H40', W15-30'<\/h4><br \/><h4> Deciduous.  Native to South America.  Open, spreading, vase-shaped tree that can have multiple trunks.  Finely cut foliage.  Pyramidal panicles of purple-blue flowers can be present from April to early summer.<\/h4><\/div><\/div>"
+  },
+
+
+{"id":"665",
+"lat":"36.81098",
+"lng":"-119.75005",
+"title":"Sawleaf Zelkova, Japanese Zelkova",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/-M4PY-QhWVg7ClC6PrS1UI_EwGil87m9T3UGeILWYufKyIzPZnjmCw=w2400\" alt=\"1_Sawleaf Zelkova, Japanese Zelkova\"><\/div><div id=\"desc\"><h3>Sawleaf Zelkova, Japanese Zelkova<\/h3><h4> Jacaranda mimosifolia<\/h4><h4>  H60-90', W60-90'<\/h4><br \/><h4> Deciduous.  Native to Japan, Korea, Taiwan, and Manchuria.  Vase-shaped tree.  Toothed leaves are elm-like but rougher in texture.  Yellow, orange, or red fall color.  Deeply rooted.<\/h4><\/div><\/div>"
+  },
+
+
+{"id":"666",
+"lat":"36.81145",
+"lng":"-119.75005",
+"title":"Bald Cypress",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/U7KG-uIpveBrGd1c0ipLTbJCj3o9b9L2gPztq94b6zhy23tEgt1jbg=w2400\" alt=\"1_Bald Cypress\"><\/div><div id=\"desc\"><h3>Bald Cypress<\/h3><h4> Taxodium distichum<\/h4><h4> H60-125', W30-75' <\/h4><br \/><h4> Deciduous conifer.  Native to swamp areas of the southeastern and Midwestern United States.  Narrowly conical growth habit.  Orange-brown fall color.<\/h4><\/div><\/div>"
+  },
+
+{"id":"667",
+"lat":"36.811",
+"lng":"-119.75147",
+"title":"Strawberry Tree",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/gCkNlLn7uyUObQ0gxvhIW33QrFHF5TDWyjEbIl-lvKv7KtdgRv0NKw=w2400\" alt=\"1_Strawberry Tree\"><\/div><div id=\"desc\"><h3>Strawberry Tree<\/h3><h4>Arbutus unedo<\/h4><h4>H25', W25' <\/h4><br \/><h4>Evergreen.  Native to the Mediterranean region and Ireland.  Large shrub or small, often multi-trunked tree.  Leathery, dark green leaves.  Both its white flowers and the fruit can be present at the same time, in fall and winter.  Round fruit, maturing from yellow to red, with a granular surface texture.<\/h4><\/div><\/div>"
+  },
+
+{"id":"668",
+"lat":"36.81122",
+"lng":"-119.75059",
+"title":"Bradford Pear",
+"dist":-1,"description":"<div id=\"infobubble\"><\/div><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/cv3cz11vLH7WWHLfKHUdd2g90RE2PUpN6_BOxm1mFecq_ZjQtxX6vg=w2400\" alt=\"1_Bradford Pear\"><\/div><div id=\"desc\"><h3>Bradford Pear<\/h3><h4>Pyrus calleryana 'Bradford'<\/h4><h4>H30-50' <\/h4><br \/><h4>Deciduous.  Species is native to China and Korea.  Narrowly conical growth habit when young, becoming oval or round with age.  Dark green, glossy leaves have purplish red fall color.  Umbel-like racemes of white flowers in spring.<\/h4><\/div><\/div>"
+  },
+
+
+{"id":"669",
+"lat":"36.8119",
+"lng":"-119.75053",
+"title":"White Mulberry",
+"dist":-1,"description":"<div id=\"infobubble\"><\/div><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/Etr9Cy7biOJWXXfZC8V1B51FdT7ZcaPP-oCUA0u95M3U-Cockw7jaw=w2400\" alt=\"1_White Mulberry\"><\/div><div id=\"desc\"><h3>White Mulberry<\/h3><h4>Morus alba<\/h4><h4>H30-50', W30-50'<\/h4><br \/><h4>Deciduous.  Native to China.  Dense, spreading habit; rounded crown.  Large, sometimes-lobed leaves.  Flowers are inconspicuous but white fruit, ripening to pink, red, or purple, is abundant.  There are also fruitless and weeping varieties.  Shallowly rooted.<\/h4><\/div><\/div>"
+  },
+
+{"id":"670",
+"lat":"36.81215",
+"lng":"-119.75057",
+"title":"Giant Sequoia",
+"dist":-1,"description":"<div id=\"infobubble\"><\/div><div id=\"desc\"><h3>Giant Sequoia<\/h3><h4>Sequoiadendron giganteum<\/h4><h4>H to 300', W 100'<\/h4><br \/><h4> Evergreen.  Native to the Sierra Nevada of California.  Conical growth habit when young, becoming columnar.  Bark is reddish brown, fire-resistant.  Dense, gray-green, scalelike foliage.  This specimen was planted in 1990.<\/h4><\/div><\/div>"
+  },
+
+
+
+{"id":"672",
+"lat":"36.81245",
+"lng":"-119.75104",
+"title":"Queen Palm",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/Yb78to_XLEuVOMQYBWtH26-McXscRgxGQ0WX6_Bqya1666aNdrco-w=w2400\" alt=\"1_Queen Palm\"><\/div><div id=\"desc\"><h3>Queen Palm<\/h3><h4> Sygarus romanzoffianum (Arecastrum romanzoffianum)<\/h4><h4> H50'<\/h4><br \/><h4>Evergreen.  Native to Argentina and Brazil.  Single trunk with open crown of long, pinnately compound leaves.  Panicles of whitish-yellow flowers followed by orange-colored, inedible fruit.<\/h4><\/div><\/div>"
+  },
+
+
+{"id":"673",
+"lat":"36.81242",
+"lng":"-119.75052",
+"title":"Cinnamon Camphor",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/r3ofTjjo6eCfQGPnA-vhr3Nrvmve-j7nnaz6vR_Qvw4t7qMzsZk9iQ=w2400\" alt=\"1_Cinnamon Camphor\"><\/div><div id=\"desc\"><h3>Cinnamon Camphor<\/h3><h4> Cinnamomum camphora<\/h4><h4>  H50', W30-60'<\/h4><br \/><h4>Evergreen.  Native to Japan, China, and Taiwan.  Aromatic foliage is yellow-green in winter.  Drops older leaves in March.  New foliage is pink, red, or bronze.  Fragrant, yellowish-white flowers present in May, followed by small, black fruit.  Shallowly rooted.<\/h4><\/div><\/div>"
+  },
+
+{"id":"674",
+"lat":"36.81364",
+"lng":"-119.75072",
+"title":"Star Magnolia",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/PaeTWUj-KMsDZO3MTM4-P3UIGGEEOtqVOv2ccm8h9nwvwSpT5WVXlg=w2400\" alt=\"1_Star Magnolia\"><\/div><div id=\"desc\"><h3>Star Magnolia<\/h3><h4> Magnolia stellata (M. kobus var. stellata)<\/h4><h4> H15-20', W15'<\/h4><br \/><h4>Deciduous.  Native to Japan.  Dense, rounded shrub or small tree.  Bronze-yellow fall color.  Star-shaped, white flowers with 12-18 narrow petals are present before the new leaves in March.<\/h4><\/div><\/div>"
+  },
+
+{"id":"675",
+"lat":"36.81355",
+"lng":"-119.75037",
+"title":"Chinese Sweet Gum, Formosan Sweet Gum",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/ZszGOTr7eMVrFuF65rdD-eZtnCGU763Qdfj00SLr7sXFzWPq9fVqsQ=w2400\" alt=\"1_Chinese Sweet Gum, Formosan Sweet Gum\"><\/div><div id=\"desc\"><h3>Chinese Sweet Gum, Formosan Sweet Gum<\/h3><h4>Liquidambar formosana<\/h4><h4> H40-60', W25' <\/h4><br \/><h4>Deciduous.  Native to China and Taiwan.  Conical growth habit when young.  Leaves have three lobes.  Fall color is yellow to orange.<\/h4><\/div><\/div>"
+  },
+
+
+{"id":"676",
+"lat":"36.81378",
+"lng":"-119.74989",
+"title":"Weeping Bottlebrush",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/-bjtoF7VOM4UFlkh3doWvQjww3xp_DarFPdFpauVfAX0n8PVF1XnHg=w2400\" alt=\"1_Weeping Bottlebrush\"><\/div><div id=\"desc\"><h3>Weeping Bottlebrush<\/h3><h4>Callistemon viminalis<\/h4><h4> H20-30', W15' <\/h4><br \/><h4>Evergreen.  Native to Australia.  Large shrub or small tree.  Long, narrow, light green leaves that grow at the ends of branches cause the weeping effect.  Terminal clusters of bottlebrush-like flowers with long, red stamens are present from late spring to summer.<\/h4><\/div><\/div>"
+  },
+
+{"id":"677",
+"lat":"36.81421",
+"lng":"-119.75029",
+"title":"Western Redbud, California Redbud",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/MF9_q2v7CSlqwPg6GWL0GfF87o9s50aO1b2_Ia8i-mCSTG_CvpDung=w2400\" alt=\"1_Western Redbud, California Redbud\"><\/div><div id=\"desc\"><h3>Western Redbud, California Redbud<\/h3><h4>Cercis occidentalis<\/h4><h4> H20', W20'<\/h4><br \/><h4>Deciduous.Native to California, Utah, and Arizona.  Found in foothills of the Sierra Nevada from 1,000'-4000' in elevation.  Usually multi-trunked.  Stakeless clusters of pink to magenta flowers are borne along the branches and trunk during March and April.  Fruit is a brown seed pod.  Drought tolerant when established.<\/h4><\/div><\/div>"
+  },
+
+{"id":"678",
+"lat":"36.8144",
+"lng":"-119.75033",
+"title":"California Black oak",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/n6p1Y72wx0K2cFkCQQetcxm0tkc0VPv3oXxOIHnkHbK9umSmJC7MTw=w2400\" alt=\"1_California Black oak\"><\/div><div id=\"desc\"><h3>California Black oak<\/h3><h4> Quercus kelloggii<\/h4><h4> H30-80', W30'<\/h4><br \/><h4>Deciduous.  Native to the United States.  Broadly conical with rounded crown when mature.  Smooth, gray-brown bark.  Glossy leaves have deeply cut and parted lobes.  Yellow to red-brown fall color.<\/h4><\/div><\/div>"
+  },
+
+{"id":"679",
+"lat":"36.81477",
+"lng":"-119.74942",
+"title":"Evergreen Maple",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/cdiSCbyyTmAOWmnQmyJuLX6-FRnU8KnecXglUeH-TfjnTWCYEJgnzg=w2400\" alt=\"1_Evergreen Maple\"><\/div><div id=\"desc\"><h3>Evergreen Maple<\/h3><h4> Acer oblongum<\/h4><h4>H25', W30' <\/h4><br \/><h4>Evergreen or partially evergreen.Native to the Himalayas and China.  Dense, rounded growth habit.  Narrow, deep green leaves.  Fruit is winged samara.<\/h4><\/div><\/div>"
+  },
+
+
+{"id":"680",
+"lat":"36.81556",
+"lng":"-119.74917",
+"title":"Honey Locust",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/fxGh929-5naoLX6Hmqu-lMswjkDbrNxwDvbHXk8aHDx2-cgoXzxagA=w2400\" alt=\"1_Honey Locust\"><\/div><div id=\"desc\"><h3>Honey Locust<\/h3><h4>Gleditsia Triacanthos var<\/h4><h4>H35-70'<\/h4><br \/><h4>Deciduous.  Native to central and eastern North America.  Spreading growth habit.  This variety is thornless; others have thorns on the trunk and branches.  Compound leaves have yellow fall color.<\/h4><\/div><\/div>"
+  },
+
+{"id":"681",
+"lat":"36.81564",
+"lng":"-119.74922",
+"title":"Japanese Flowering Crabapple",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/AiDrYPAMtwEzYSIqJPx5tH5MjfY7supG5t6yJhiysxJO75EMv8inlw=w2400\" alt=\"1_Japanese Flowering Crabapple\"><\/div><div id=\"desc\"><h3>Japanese Flowering Crabapple<\/h3><h4>Malus floribunda<\/h4><h4>H30', W30'<\/h4><br \/><h4>Deciduous.  May be of hybrid origin; introduced from Japan in 1862.  Deep pink buds open into pale pink or white flowers during March-April.  Small, yellow fruit.<\/h4><\/div><\/div>"
+  },
+
+{"id":"682",
+"lat":"36.816",
+"lng":"-119.74794",
+"title":"Raywood Ash",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/SlqFhjKQpjJidKMRrjlkIKWegAjCLDsrAmcaLgV_K56reEVJXg1EZw=w2400\" alt=\"1_Raywood Ash\"><\/div><div id=\"desc\"><h3>Raywood Ash<\/h3><h4>Fraxinus oxycarpa (F. angustifolia) 'Raywood'<\/h4><h4> H25-35', W30-'40'<\/h4><br \/><h4>Deciduous.  Species is native to southwestern Europe and North Africa.  Compact, rounded crown.  Fine-textured foliage turns purple-red in fall.<\/h4><\/div><\/div>"
+  },
+
+
+{"id":"683",
+"lat":"36.81553",
+"lng":"-119.74784",
+"title":"Italian Cypress",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/3exEGsGXfqTzmjnA4Ec1Jv9Ecqh-hwmQKDHLhYfSGcGBVP1XgmHJbQ=w2400\" alt=\"1_Italian Cypress\"><\/div><div id=\"desc\"><h3>Italian Cypress<\/h3><h4>Cupressus sempervirens 'Stricta'<\/h4><h4> H60', W8'<\/h4><br \/><h4>Evergreen.  Native to the eastern Mediterranean region and western Asia.  Upright, narrowly columnar growth habit.  Dark green foliage.  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"684",
+"lat":"36.81517",
+"lng":"-119.74863",
+"title":"Red Ironbark",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/xOJyR2t3xgiBnp8zIaddV66HX4SEp7F5tt781EVw5aHHxxkykSTXUw=w2400\" alt=\"1_Red Ironbark\"><\/div><div id=\"desc\"><h3>Red Ironbark<\/h3><h4>Eucalyptus sideroxylon 'Rosea'<\/h4><h4> H30-50'<\/h4><br \/><h4>Evergreen.  Native to Australia.  Red-brown bark.  Slender, blue-green leaves turn bronze in winter.  Red or deep rose flowers borne in umbels.<\/h4><\/div><\/div>"
+  },
+
+{"id":"685",
+"lat":"36.81413",
+"lng":"-119.74879",
+"title":"Aleppo Pine",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/XtLciKTOj6qTE9J760zpgHNCUlJQ745Ckrrho1Y6N10i4w6ps53WZA=w2400\" alt=\"1_Aleppo Pine\"><\/div><div id=\"desc\"><h3>Aleppo Pine<\/h3><h4>Pinus halepensis<\/h4><h4> H30-60', W20-30'<\/h4><br \/><h4>Evergreen.  Native to the Mediterranean region.  Open growth habit and rounded crown when mature.  Short, light green needles in bundles of two.  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+
+{"id":"686",
+"lat":"36.81358",
+"lng":"-119.74906",
+"title":"White Alder",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/x4BM6JMP6bqtZZYwTd-Tiizkf7zZM_9c09muReIHIYlUzzH_zYgQ2A=w2400\" alt=\"1_White Alder\"><\/div><div id=\"desc\"><h3>White Alder<\/h3><h4> Alnus rhombifolia<\/h4><h4>H50-90', W 40'<\/h4><br \/><h4>Deciduous.  Native to coastal areas, along stream banks, from British Columbia to California.  Coarsely toothed, dark green leaves have paler undersides.  Flowers are greenish-yellow catkins.  Fruit is a small, brown, woody cone.<\/h4><\/div><\/div>"
+  },
+
+{"id":"687",
+"lat":"36.81359",
+"lng":"-119.74883",
+"title":"Coast Redwood, California Redwood",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/okoGspKIidfCYDnDbITrOOrs5JSAYGUIUDJ_eL53ar4aQgh5pKN1Vg=w2400\" alt=\"1_Coast Redwood, California Redwood\"><\/div><div id=\"desc\"><h3>Coast Redwood, California Redwood<\/h3><h4>Sequoia sempervirens<\/h4><h4>H120', W20-30'<\/h4><br \/><h4>Evergreen.  Native to the coastal ranges of Oregon and northern California.  Conical, moderately dense growth habit.  Dark green, needle-like leaves.<\/h4><\/div><\/div>"
+  },
+
+{"id":"688",
+"lat":"36.81344",
+"lng":"-119.74857",
+"title":"Silk Oak",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/gfvP0HtpuTIGx2saXx09ICBWo1jsAQ8kwfE6g6XvQ4V764BSSzlFOQ=w2400\" alt=\"1_Silk Oak\"><\/div><div id=\"desc\"><h3>Silk Oak<\/h3><h4>Grevillea robusta<\/h4><h4>H50-75', W25-30' <\/h4><br \/><h4>Evergreen.  Native to Australia.  Conical when young; crown broadens with age.  Fernlike leaves are dark green with pale undersides.  Large clusters of deep orange flowers in May.<\/h4><\/div><\/div>"
+  },
+
+{"id":"689",
+"lat":"36.8108",
+"lng":"-119.74884",
+"title":"Chinese Elm, Lacebark Elm",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/jd4P57dAoLcvHNIVM1G0YHm0V7Ylq_Q00M2fsUqkSsBEa_k-6LrQgg=w2400\" alt=\"1_Chinese Elm, Lacebark Elm\"><\/div><div id=\"desc\"><h3>Chinese Elm, Lacebark Elm<\/h3><h4>Ulmus parvifolia<\/h4><h4>H40-60', W50-70' <\/h4><br \/><h4>Semi-evergreen.  Native to China, Japan, and Korea.  Upright growth habit with rounded crown.  Bark of older trees flakes off to reveal orange-colored inner bark.  Yellow-orange fall color.<\/h4><\/div><\/div>"
+}
+];  all_markers.trees=points; points = [];
+
+var points = [{"id":"601",
+"lat":"36.80969",
+"lng":"-119.74515",
+"title":"Red Oak",
+"dist":-1,
+"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"float: right;width: 70px;height:90px;\" src=\"https:\/\/image.ibb.co\/cCk08n\/617b89f325b85f0917e83fc2443d840c.jpg\" alt=\"1_Red_Oak\"><\/div><div id=\"desc\"><h3>Red Oak<\/h3><h4>Quercus rubra<\/h4><h4>H90', W60'<\/h4><br \/><h4>Deciduous.  Native to eastern North America.  New leaves are red, turning dark green.  Fall color is dark red, reddish brown or orange.  Deeply rooted.<\/h4><\/div><\/div>"
+  },
+
+{"id":"607",
+"lat":"36.81188",
+"lng":"-119.74504",
+"title":"Modesto Ash",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/oonkNTUqxHiOWggTUzScYpHKy1wLfzBULKKynNEjOHvCBFrWdCxhXA=w2400\" alt=\"1_Carolina Cherry Laurel\"><\/div><div id=\"desc\"><h3>Modesto Ash<\/h3><h4> Fraxinus velutina 'Modesto'<\/h4><h4> H50', W30'<\/h4><br \/><h4>Deciduous.  F. velutina is native to the southwestern United States.  This variety originated from a tree found in Westside Park, Modesto Calif.  Spreading habit.  Leaves divided into 3-5 lance-shaped leaflets.  Yellow fall color.<\/h4><\/div><\/div>"
+  },
+
+{"id":"608",
+"lat":"36.81303",
+"lng":"-119.74541",
+"title":"Red Maple",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com/_Bu8BiiEGv5DoKOeF_bNgToNR8WRvzlFw-g_U2cCz9WnmuEJ8wDCsw=w2400\" alt=\"1_Red Maple\"><\/div><div id=\"desc\"><h3>Red Maple<\/h3><h4>Acer rubrum<\/h4><h4> H60', W20'<\/h4><br \/><h4>Deciduous.  Native to eastern North America.  Shiny green leaves with paler undersides have 3-5 lobes.  Scarlet fall color.  Dense clusters of red flowers in March-April.  Fruit is a red, winged samara.<\/h4><\/div><\/div>"
+  },
+
+{"id":"614",
+"lat":"36.81392",
+"lng":"-119.74398",
+"title":"Silk Tree",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/Fd3K59y-yE4zgolJdQWeGFJy8eI7G3-o1bq_BIa7RqknJG9Iraw1gw=w2400\" alt=\"1_Silk Tree\"><\/div><div id=\"desc\"><h3>Silk Tree<\/h3><h4>Albizia julibrissin<\/h4><h4>H20-35', W15-60'<\/h4><br \/><h4>  Deciduous.  Native from Iran to central China.  Spreading, vase-shaped tree with a flat-topped crown; often multi-trunked.  Doubly compound, fernlike leaves fold up at night.  Flowers, present in May and June, are pink, fluffy balls of which the showy portion is stamens.<\/h4><\/div><\/div>"
+  },
+
+{"id":"615",
+"lat":"36.81488",
+"lng":"-119.7421",
+"title":"Babylon Weeping Willow",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/yqznV8V9MpXLlm33WeCaUECs635Tlyytuj9KesljM84-XUQhwpvVLQ=w2400\" alt=\"1_Babylon Weeping Willow\"><\/div><div id=\"desc\"><h3>Babylon Weeping Willow<\/h3><h4> Salix babylonica<\/h4><h4>H50', W50'<\/h4><br \/><h4>   Deciduous.  Native to China.  Rounded, weeping growth habit.  Bright green leaves turn yellow in fall.  Shallowly rooted.<\/h4><\/div><\/div>"
+  },
+
+{"id":"617",
+"lat":"36.81255",
+"lng":"-119.74269",
+"title":"Aristocrat Pear",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/1VrN_q-piL2xraERUGyYzinTnh03PvY7DNzpTTwkPK8yfR5NMwJRxw=w2400\" alt=\"1_Aristocrat Pear\"><\/div><div id=\"desc\"><h3>KAristocrat Pear<\/h3><h4> Pyrus calleryana 'Aristocrat'<\/h4><h4>H40', W30'<\/h4><br \/><h4> Deciduous.  Species is native to China and Korea.  Cultivar was selected by W.T. Shaw, Independence, Kentucky.  Broadly conical growth habit.  Oval, dark green leaves have wavy margins.  Red fall color.  White flowers in umbel-like racemes, present in March.  Drought tolerant when established.<\/h4><\/div><\/div>"
+  },
+
+  {"id":"619",
+"lat":"36.81207",
+"lng":"-119.74302",
+"title":"London Plane Tree",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/HfkhOm-6RLbpPkpoRY54hYPouG838OxwacPdNX5YxpAEdK_YWNgukQ=w2400\" alt=\"1_London Plane Tree\"><\/div><div id=\"desc\"><h3>London Plane Tree<\/h3><h4> Platanus x acerifolia<\/h4><h4>H40-80', W30-40'<\/h4><br \/><h4> Deciduous.  Hybrid of P. occidentalis x P. orientalis.  Exfoliating bark on main trunk reveals patterns in cream, olive, and light brown.  Large, dull green, maple-like leaves.  Bristly, ball-shaped fruit is brown.<\/h4><\/div><\/div>"
+  },
+
+  {"id":"620",
+"lat":"36.81195",
+"lng":"-119.7429",
+"title":"American Sweet Gum",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/6Vp0l5bY9nBFioiAvGpyZ19pjlOQOALJm7MvuguS6rUwT9gheLbVFA=w2400\" alt=\"1_American Sweet Gum\"><\/div><div id=\"desc\"><h3>American Sweet Gum<\/h3><h4> Liquidambar styraciflua<\/h4><h4> H60', W25'<\/h4><br \/><h4> Deciduous.  Native to the eastern and southern United States.  Upright, pyramidal growth habit.  Fall color ranges from orange to burgundy.  Fruit is a spiny ball, borne in clusters, that persists on bare branches in winter.  Shallowly routed.<\/h4><\/div><\/div>"
+},
+
+{"id":"623",
+"lat":"36.81128",
+"lng":"-119.74423",
+"title":"Japanese Maple",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/M73wUSIDBKy0dTLgzBHb3hVemilqtxsBLVP976YDEHDO-OUgCuCf2Q=w2400\" alt=\"1_Japanese Maple\"><\/div><div id=\"desc\"><h3>Japanese Maple<\/h3><h4>Acer palmatum<\/h4><h4>H20-40', W25'<\/h4><br \/><h4> Deciduous.  Native to China, Japan, and Korea.  Fine-textured foliage.  Palmate, deeply lobed leaves.  New leaves are reddish, turning medium green.  Orange to red fall color.  Fruit is a winged samara.<\/h4><\/div><\/div>"
+  },
+
+{"id":"626",
+"lat":"36.81047",
+"lng":"-119.74601",
+"title":"Chinese Tallow Tree, Popcorn Tree",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/VlYvP1m2hMdg4SK5kSwpQBf58ICuHX8rCUMBWiV2BaV49ft619a_6g=w2400\" alt=\"1_Chinese Tallow Tree, Popcorn Tree\"><\/div><div id=\"desc\"><h3>Chinese Tallow Tree, Popcorn Tree<\/h3><h4> Sapium sebiferum<\/h4><h4> H35', W35' <\/h4><br \/><h4>Deciduous.  Native to China.  Effect of foliage is open rather than dense.  Poplar-like leaves turn red-orange in fall.  Spikes of tiny, yellow flowers in spring.  Brown fruit capsules open to reveal white, waxy seeds that persist on the tree in winter.  Deeply rooted.  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"627",
+"lat":"36.81049",
+"lng":"-119.74635",
+"title":"Valley Oak, California White Oak",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/KZUEuT9VWCjmFkRdsMWnuEgdnHwLSq5n08NOWj4i1MQ9v7qqM7C6eQ=w2400\" alt=\"1_Valley Oak, California White Oak\"><\/div><div id=\"desc\"><h3>Valley Oak, California White Oak<\/h3><h4> Quercus lobata<\/h4><h4>H70', W70' <\/h4><br \/><h4>Deciduous.  Native to California's interior valleys, coast ranges, and Sierra Nevada foothills. Spreading growth habit.  Trunk and limbs have gray, checked bark.  Leaves are deeply lobed.  Fruit is an edible acorn.<\/h4><\/div><\/div>"
+  },
+
+  {"id":"628",
+"lat":"36.81025",
+"lng":"-119.74662",
+"title":"Crape Myrtle",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/YLzD-d4OlDpNv7ZIr0t95KtrLK97z5HPlf4HvFVInmE9iiPTXAcKGA=w2400\" alt=\"1_Crape Myrtle\"><\/div><div id=\"desc\"><h3>Crape Myrtle<\/h3><h4> Lagerstroemia indica<\/h4><h4>H6-30'<\/h4><br \/><h4>Deciduous.  Native to China.  Large shrub or small tree, can be multi-trunked.  Bark flakes off, leaving smooth, pale trunk and branches.  Red-orange fall color.  Large terminal panicles of white, pink or lavender flowers, depending on the cultivar, from June to September.  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+  {"id":"631",
+"lat":"36.81032",
+"lng":"-119.74678",
+"title":"Basket Oak, Chestnut Oak",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/qNPk19iohwaSAlZomZgvB4xydD--fgWScojyyTImmd3FkQMrakM5cg=w2400\" alt=\"1_Basket Oak, Chestnut Oak\"><\/div><div id=\"desc\"><h3>Basket Oak, Chestnut Oak<\/h3><h4>Quercus prinus<\/h4><h4>H100' <\/h4><br \/><h4>Deciduous.  Native to the eastern and southern United States.  Dark brown, deeply furrowed bark.  Bright green, coarsely toothed leaves have pale undersides.  Fruit is a dark brown acorn.<\/h4><\/div><\/div>"
+  },
+
+{"id":"632",
+"lat":"36.8107",
+"lng":"-119.74762",
+"title":"Japanese Red Pine",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/ch2OvKygl9UIL4Loxlhx9Qrgy4DE8lagAXtrzqQ-3qSj2g7ddiGZtw=w2400\" alt=\"1_Japanese Red Pine\"><\/div><div id=\"desc\"><h3>Japanese Red Pine<\/h3><h4>Pinus densiflora<\/h4><h4>H100' <\/h4><br \/><h4>Deciduous.  Native to northeast Asia and Japan.  Irregular, spreading growth habit.  Tree usually has two or more trunks branching from near ground level.  Bark of the trunk and main branches of younger trees is orange in color.  Needles in bundles of two.<\/h4><\/div><\/div>"
+  },
+
+{"id":"633",
+"lat":"36.80894",
+"lng":"-119.7478",
+"title":"California sycamore",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/hZ7ZbIsDS6hLFzVVXfhIg5DlkRzD6ncmNnqSUq81vrt_X7iQe0c_Bg=w2400\"alt=\"1_California sycamore\"><\/div><div id=\"desc\"><h3>California sycamore<\/h3><h4> Platanus racemosa<\/h4><h4>H40-90', W50-70'<\/h4><br \/><h4> Deciduous.  Native to stream banks in foothill areas of California and Baja California.  Multiple trunks.  Bark exfoliates to reveal patterns on inner bark.  Large leaves with 5 or 3 lobes.  Fruit is a brown, slightly shiny ball, borne in clusters.<\/h4><\/div><\/div>"
+  },
+
+{"id":"634",
+"lat":"36.8091",
+"lng":"-119.74864",
+"title":"Pecan",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/IlvopEjU9oTtFKA3VsYY3g5kY0R9-A-v9hfUTuopbDq1aZuCsamavw=w2400\" alt=\"1_Pecan\><\/div><div id=\"desc\"><h3>Pecan<\/h3><h4> Carya illinoiensis<\/h4><h4>H70', W70'<\/h4><br \/><h4> Deciduous.  Native to the central and southern United States.  Upright growth habit, oval crown.  Leaves are pinnate, with 11-17 leaflets.  Yellow fall color.  Fruit is an edible nut.<\/h4><\/div><\/div>"
+  },
+
+{"id":"635",
+"lat":"36.80929",
+"lng":"-119.74907",
+"title":"Purple Leaf Plum, Cherry Plum",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/dxBkHLBmuwcARSrFeL2JBai5si5IlW6z_vFUIY0og4TyPaw0J7Ywrg=w2400\" alt=\"1_Purple Leaf Plum, Cherry Plum\><\/div><div id=\"desc\"><h3>Purple Leaf Plum, Cherry Plum<\/h3><h4>Prunus cerasifera 'Thundercloud' <\/h4><h4> H30'<\/h4><br \/><h4> Deciduous.  Native to southwestern Asia and southeastern Europe.  Leaves of this cultivar remain purple through the summer.  Single pink flowers.  Other cultivars have green red leaf color, white flowers.  Some bear edible, plum-like fruit.<\/h4><\/div><\/div>"
+  },
+
+{"id":"639",
+"lat":"36.81206",
+"lng":"-119.74798",
+"title":"Lombardy Poplar",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/C4IJLoj7vvmby7Z1MS1Qj60xvTvuFvoUt0B4v3fXQ5TOxWr7Z2Di7Q=w2400\" alt=\"1_Lombardy Poplar\><\/div><div id=\"desc\"><h3>Lombardy Poplar<\/h3><h4>Populus nigra 'Italica<\/h4><h4>H40-90', W10-25'<\/h4><br \/><h4> Deciduous.  Native to the Mediterranean region.  Fast-growing and short-lived.  Upright, columnar growth habit.  Yellow fall color.  Shallowly rooted.<\/h4><\/div><\/div>"
+  },
+
+
+  {"id":"641",
+"lat":"36.81229",
+"lng":"-119.74774",
+"title":"Eastern Redbud",
+"dist":-1,
+"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"float: right;width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/7Jqoe9P0flEBeXF7zpTGlXL15mB8UlS03zU-p_1R0vMfH51Hwrz-Nw=w2400\" alt=\"1_Eastern_Redbud\><\/div><div id=\"desc\"><h3>Eastern Redbud<\/h3><h4>Cercis canadensis<\/h4><h4>H25-35', W20-25'<\/h4><br \/><h4>Deciduous.  Native toe eastern North America.  Rounded crown, spreading growth habit.  Large, heart-shaped leaves.  Small, rose-pink flowers cover the bare branches in early spring, followed by brown, flat, legume-like pods that persist through the winter.<\/h4><\/div><\/div>"
+  },
+
+
+
+{"id":"643",
+"lat":"36.81236",
+"lng":"-119.74667",
+"title":"Eley Crabapple",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/aSOXKD5cjGaNNkurBysDeLN3BC5FrYaqDbB1_WZvg_IYwxQRefK50w=w2400\" alt=\"1_Eley Crabapple\><\/div><div id=\"desc\"><h3>Eley Crabapple<\/h3><h4> Malus x purpurea \"Eleyi'<\/h4><h4>H20', W20'<\/h4><br \/><h4> Deciduous.  Hybrid origin.  Cultivar raised by and named for Charles Eley, Suffolk, England.  New foliage is purple, turning dark green when mature.  Red buds opening to pink flowers, in April.  Reddish fruit.<\/h4><\/div><\/div>"
+  },
+
+  {"id":"644",
+"lat":"36.81258",
+"lng":"-119.74647",
+"title":"Big-leaf Linden",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/NhPp8IBUmTBkfiZjO1YWMxzDVDpZk-RVPbSfKbA5CkPihhuYN33ZXg=w2400\" alt=\"1_Big-leaf Linden\><\/div><div id=\"desc\"><h3>Big-leaf Linden<\/h3><h4>Tilia platyphyllos<\/h4><h4>H30-100', W40'<\/h4><br \/><h4> Deciduous.   Native to Europe.  Broadly columnar growth habit.   Dark green leaves have paler undersides. Yellow fall color.<\/h4><\/div><\/div>"
+  },
+
+{"id":"645",
+"lat":"36.8128",
+"lng":"-119.74718",
+"title":"Yoshino flowering cherry",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/v815XuYz9nXMX5ucr03Vt16izZGGm5anC9AwB1TjjbH941BBeJonUw=w2400\" alt=\"1_Yoshino flowering cherry\><\/div><div id=\"desc\"><h3>Yoshino flowering cherry<\/h3><h4>Prunus x yedoensis 'Akebono' ('Daybreak')<\/h4><h4>H25', W30'<\/h4><br \/><h4> Deciduous.  P.x yedoensis, introduced from Japan, is believed to be a hybrid between P. speciosa x P. subhirtella or P. serrulata x P. subbirtella.  Cultivator was selected, named, and introduced by W. B. Clarke Nursery, San Jose, Calif.  Fast growing and short-lived.  Rounded, spreading habit.  Racemes of pale pink to white flowers during March-April.<\/h4><\/div><\/div>"
+  },
+
+
+{"id":"649",
+"lat":"36.81326",
+"lng":"-119.74642",
+"title":"Maidenhair Tree",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/o9cOWmDJUmtbg1Pk0u73kQyqat8qRqlE9Up4gwjGS3tBtzde1W2e8Q=w2400\" alt=\"1_Maidenhair Tree\><\/div><div id=\"desc\"><h3>Maidenhair Tree<\/h3><h4> Ginkgo biloba<\/h4><h4>H60-80', W35'<\/h4><br \/><h4>Deciduous.  Native to China.  Leaves shaped like those of maidenhair fern (flat, fan-shaped, lobed at the tip).  Golden fall color.  Only male trees are generally used in gardens; seeds of female trees have a foul-smelling covering.  Deep-rooted and drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"651",
+"lat":"36.81325",
+"lng":"-119.74602",
+"title":"Pistachio",
+"dist":-1,
+"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/d91RBQs8IkXVCwkyxVSOrPJanaVjyiB0sZhUXDwGaiH-G5aNqXW38Q=w2400\" alt=\"1_Pistachio\><\/div><div id=\"desc\"><h3>Pistachio<\/h3><h4>Pistacia vera<\/h4><h4>H30'<\/h4><br \/><h4>Deciduous.  Native from Iran to central Asia.  Spreading growth habit.  Fruit is reddish, borne in heavy clusters.  Edible, green or yellow seeds (pistachio nuts) are within hard shells.<\/h4><\/div><\/div>"
+},
+
+  {"id":"653",
+"lat":"36.81279",
+"lng":"-119.74612",
+"title":"Common Fig",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/dQnYHJ9b1vHs7wCjYN7nJOvdqbqizwGxD2N7n0anheIhtebHhPF-sw=w2400 \" alt=\"1_Common Fig\"><\/div><div id=\"desc\"><h3>Common Fig<\/h3><h4>Ficus carica<\/h4><h4> H15-30'<\/h4><br \/><h4>Deciduous.  Native to the eastern Mediterranean region.  Large shrub or small tree.  Trunk and branches become gnarled with age.  Large, rounded leaves have 3 or 5 deep lobes.  Edible fruit is ripe in summer.  Drought tolerant when established.<\/h4><\/div><\/div>"
+  },
+
+{"id":"654",
+"lat":"36.81276",
+"lng":"-119.746",
+"title":"Purple Robe Locust",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/Sauk73XJ7ozYBsIhQhCqv2uWkAQB5vOb9BeeqRvGRaBvSJIcajOlLg=w2400\" alt=\"1_urple Robe Locust\"><\/div><div id=\"desc\"><h3>Purple Robe Locust<\/h3><h4>Robinia x ambigua 'Purple Robe'<\/h4><h4> H40' ,W20'<\/h4><br \/><h4>Deciduous.  R. x ambigua is a hybrid between R. pseudoacacia x R. viscose.    Oval, open growth habit.  Pinnately compound leaves.  Racemes of dark rose-pink, pea-like flowers in spring.  Shallowly rooted.<\/h4><\/div><\/div>"
+  },
+
+  {"id":"655",
+"title":"Saucer Magnolia",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/mwHFpYQnIUBrcVabF2bPLu0YoLJNccJYKEywJzs5kgkG9ySKFbMjXQ=w2400\" alt=\"1_Saucer Magnolia\"><\/div><div id=\"desc\"><h3>Saucer Magnolia<\/h3><h4>Magnolia x soulangiana<\/h4><h4>H20-40', W10-30' <\/h4><br \/><h4>Deciduous.  Hybrid between M. denudate x M. liliiflora.  Spreading habit, often multi-trunked.  Large, fragrant, goblet-shaped flowers in March-April.  Petals are pink outside and whitish-inside.  Fruit is a pod that splits to reveal orange-colored seeds.  There are numerous cultivars of this tree, with a variety of flower characteristics.<\/h4><\/div><\/div>"
+  },
+
+{"id":"663",
+"lat":"36.811",
+"lng":"-119.74605",
+"title":"Chaste Tree, Hemp Tree",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/_vmNnTAMeG7vsEqmFIPhwVu2jjgpykjybwTa7Hzq1yki7ZzZ3ck-tQ=w2400\" alt=\"1_Chaste Tree, Hemp Tree\"><\/div><div id=\"desc\"><h3>Chaste Tree, Hemp Tree<\/h3><h4>Vitex agnus-castus<\/h4><h4>H8'-25'<\/h4><br \/><h4>Deciduous.  Native from southern Europe to western Asia.  Shrub-like, often multi-trunked tree.  Open, spreading habit.  Dark green, palmate leaves have 5-7 leaflets.  Upright, terminal panicles of small, lavender-blue flowers in summer and sometimes again in autumn.  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"664",
+"lat":"36.8114",
+"lng":"-119.74986",
+"title":"Jacaranda",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/BW3pHZ-09C958V1ui-4PM2yZ_G3hlC7CcXTRa2A5Ejme89oSlC4GNg=w2400\" alt=\"1_Jacaranda\"><\/div><div id=\"desc\"><h3>Jacaranda<\/h3><h4> Jacaranda mimosifolia<\/h4><h4>H40', W15-30'<\/h4><br \/><h4> Deciduous.  Native to South America.  Open, spreading, vase-shaped tree that can have multiple trunks.  Finely cut foliage.  Pyramidal panicles of purple-blue flowers can be present from April to early summer.<\/h4><\/div><\/div>"
+  },
+
+
+{"id":"665",
+"lat":"36.81098",
+"lng":"-119.75005",
+"title":"Sawleaf Zelkova, Japanese Zelkova",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/-M4PY-QhWVg7ClC6PrS1UI_EwGil87m9T3UGeILWYufKyIzPZnjmCw=w2400\" alt=\"1_Sawleaf Zelkova, Japanese Zelkova\"><\/div><div id=\"desc\"><h3>Sawleaf Zelkova, Japanese Zelkova<\/h3><h4> Jacaranda mimosifolia<\/h4><h4>  H60-90', W60-90'<\/h4><br \/><h4> Deciduous.  Native to Japan, Korea, Taiwan, and Manchuria.  Vase-shaped tree.  Toothed leaves are elm-like but rougher in texture.  Yellow, orange, or red fall color.  Deeply rooted.<\/h4><\/div><\/div>"
+  },
+
+
+{"id":"668",
+"lat":"36.81122",
+"lng":"-119.75059",
+"title":"Bradford Pear",
+"dist":-1,"description":"<div id=\"infobubble\"><\/div><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/cv3cz11vLH7WWHLfKHUdd2g90RE2PUpN6_BOxm1mFecq_ZjQtxX6vg=w2400\" alt=\"1_Bradford Pear\"><\/div><div id=\"desc\"><h3>Bradford Pear<\/h3><h4>Pyrus calleryana 'Bradford'<\/h4><h4>H30-50' <\/h4><br \/><h4>Deciduous.  Species is native to China and Korea.  Narrowly conical growth habit when young, becoming oval or round with age.  Dark green, glossy leaves have purplish red fall color.  Umbel-like racemes of white flowers in spring.<\/h4><\/div><\/div>"
+  },
+
+
+{"id":"669",
+"lat":"36.8119",
+"lng":"-119.75053",
+"title":"White Mulberry",
+"dist":-1,"description":"<div id=\"infobubble\"><\/div><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/Etr9Cy7biOJWXXfZC8V1B51FdT7ZcaPP-oCUA0u95M3U-Cockw7jaw=w2400\" alt=\"1_White Mulberry\"><\/div><div id=\"desc\"><h3>White Mulberry<\/h3><h4>Morus alba<\/h4><h4>H30-50', W30-50'<\/h4><br \/><h4>Deciduous.  Native to China.  Dense, spreading habit; rounded crown.  Large, sometimes-lobed leaves.  Flowers are inconspicuous but white fruit, ripening to pink, red, or purple, is abundant.  There are also fruitless and weeping varieties.  Shallowly rooted.<\/h4><\/div><\/div>"
+  },
+
+{"id":"674",
+"lat":"36.81364",
+"lng":"-119.75072",
+"title":"Star Magnolia",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/PaeTWUj-KMsDZO3MTM4-P3UIGGEEOtqVOv2ccm8h9nwvwSpT5WVXlg=w2400\" alt=\"1_Star Magnolia\"><\/div><div id=\"desc\"><h3>Star Magnolia<\/h3><h4> Magnolia stellata (M. kobus var. stellata)<\/h4><h4> H15-20', W15'<\/h4><br \/><h4>Deciduous.  Native to Japan.  Dense, rounded shrub or small tree.  Bronze-yellow fall color.  Star-shaped, white flowers with 12-18 narrow petals are present before the new leaves in March.<\/h4><\/div><\/div>"
+  },
+
+{"id":"675",
+"lat":"36.81355",
+"lng":"-119.75037",
+"title":"Chinese Sweet Gum, Formosan Sweet Gum",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/ZszGOTr7eMVrFuF65rdD-eZtnCGU763Qdfj00SLr7sXFzWPq9fVqsQ=w2400\" alt=\"1_Chinese Sweet Gum, Formosan Sweet Gum\"><\/div><div id=\"desc\"><h3>Chinese Sweet Gum, Formosan Sweet Gum<\/h3><h4>Liquidambar formosana<\/h4><h4> H40-60', W25' <\/h4><br \/><h4>Deciduous.  Native to China and Taiwan.  Conical growth habit when young.  Leaves have three lobes.  Fall color is yellow to orange.<\/h4><\/div><\/div>"
+  },
+
+{"id":"677",
+"lat":"36.81421",
+"lng":"-119.75029",
+"title":"Western Redbud, California Redbud",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/MF9_q2v7CSlqwPg6GWL0GfF87o9s50aO1b2_Ia8i-mCSTG_CvpDung=w2400\" alt=\"1_Western Redbud, California Redbud\"><\/div><div id=\"desc\"><h3>Western Redbud, California Redbud<\/h3><h4>Cercis occidentalis<\/h4><h4> H20', W20'<\/h4><br \/><h4>Deciduous.Native to California, Utah, and Arizona.  Found in foothills of the Sierra Nevada from 1,000'-4000' in elevation.  Usually multi-trunked.  Stakeless clusters of pink to magenta flowers are borne along the branches and trunk during March and April.  Fruit is a brown seed pod.  Drought tolerant when established.<\/h4><\/div><\/div>"
+  },
+
+{"id":"678",
+"lat":"36.8144",
+"lng":"-119.75033",
+"title":"California Black oak",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/n6p1Y72wx0K2cFkCQQetcxm0tkc0VPv3oXxOIHnkHbK9umSmJC7MTw=w2400\" alt=\"1_California Black oak\"><\/div><div id=\"desc\"><h3>California Black oak<\/h3><h4> Quercus kelloggii<\/h4><h4> H30-80', W30'<\/h4><br \/><h4>Deciduous.  Native to the United States.  Broadly conical with rounded crown when mature.  Smooth, gray-brown bark.  Glossy leaves have deeply cut and parted lobes.  Yellow to red-brown fall color.<\/h4><\/div><\/div>"
+  },
+
+
+{"id":"680",
+"lat":"36.81556",
+"lng":"-119.74917",
+"title":"Honey Locust",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/fxGh929-5naoLX6Hmqu-lMswjkDbrNxwDvbHXk8aHDx2-cgoXzxagA=w2400\" alt=\"1_Honey Locust\"><\/div><div id=\"desc\"><h3>Honey Locust<\/h3><h4>Gleditsia Triacanthos var<\/h4><h4>H35-70'<\/h4><br \/><h4>Deciduous.  Native to central and eastern North America.  Spreading growth habit.  This variety is thornless; others have thorns on the trunk and branches.  Compound leaves have yellow fall color.<\/h4><\/div><\/div>"
+  },
+
+{"id":"681",
+"lat":"36.81564",
+"lng":"-119.74922",
+"title":"Japanese Flowering Crabapple",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/AiDrYPAMtwEzYSIqJPx5tH5MjfY7supG5t6yJhiysxJO75EMv8inlw=w2400\" alt=\"1_Japanese Flowering Crabapple\"><\/div><div id=\"desc\"><h3>Japanese Flowering Crabapple<\/h3><h4>Malus floribunda<\/h4><h4>H30', W30'<\/h4><br \/><h4>Deciduous.  May be of hybrid origin; introduced from Japan in 1862.  Deep pink buds open into pale pink or white flowers during March-April.  Small, yellow fruit.<\/h4><\/div><\/div>"
+  },
+
+{"id":"682",
+"lat":"36.816",
+"lng":"-119.74794",
+"title":"Raywood Ash",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/SlqFhjKQpjJidKMRrjlkIKWegAjCLDsrAmcaLgV_K56reEVJXg1EZw=w2400\" alt=\"1_Raywood Ash\"><\/div><div id=\"desc\"><h3>Raywood Ash<\/h3><h4>Fraxinus oxycarpa (F. angustifolia) 'Raywood'<\/h4><h4> H25-35', W30-'40'<\/h4><br \/><h4>Deciduous.  Species is native to southwestern Europe and North Africa.  Compact, rounded crown.  Fine-textured foliage turns purple-red in fall.<\/h4><\/div><\/div>"
+  },
+
+{"id":"686",
+"lat":"36.81358",
+"lng":"-119.74906",
+"title":"White Alder",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/x4BM6JMP6bqtZZYwTd-Tiizkf7zZM_9c09muReIHIYlUzzH_zYgQ2A=w2400\" alt=\"1_White Alder\"><\/div><div id=\"desc\"><h3>White Alder<\/h3><h4> Alnus rhombifolia<\/h4><h4>H50-90', W 40'<\/h4><br \/><h4>Deciduous.  Native to coastal areas, along stream banks, from British Columbia to California.  Coarsely toothed, dark green leaves have paler undersides.  Flowers are greenish-yellow catkins.  Fruit is a small, brown, woody cone.<\/h4><\/div><\/div>"
+  }];  all_markers.deciduousTrees=points; points = [];
+
+var points = [{"id":"602",
+"lat":"36.8108",
+"lng":"-119.74486",
+"title":"Fern Pine",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/1UtDbHJDWoaSXkPlCtarNVBSVa7_yww1DB15F_17asHj_ckwxLE7nQ=w2400 \" alt=\"1_Fern Pine\"><\/div><div id=\"desc\"><h3>Fern Pine<\/h3><h4>Podocarpus gracilior<\/h4><h4> H60', W15'<\/h4><br \/><h4>Evergreen.  Native to Kenya, Uganda, and Ethiopia.  Round-headed or oval, with a weeping aspect.  Fine-textured foliage is bright green or dark green.  Blue, berry-like fruit.<\/h4><\/div><\/div>"
+  },
+
+{"id":"603",
+"title":"willow pittosporum",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/JcLAHzO9MBlXvTwt40fguXTEp4NIQZnjIjmEbM7KzSdiAGp0Jz96NA=w2400 \" alt=\"1_willow pittosporum\"><\/div><div id=\"desc\"><h3>willow pittosporum<\/h3><h4>Pittosporum phillyraeoides<\/h4><h4>H20', W15'<\/h4><br \/><h4>Evergreen.  Native to Australia.  Spreading, weeping habit.  Narrow, light green leaves.  Small, fragrant yellow flowers in late winter followed by spherical, deep yellow fruit.<\/h4><\/div><\/div>"
+  },
+
+{"id":"604",
+"lat":"36.81114",
+"lng":"-119.74503",
+"title":"Colorado Blue Spruce",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/IyGqBh67IAn6yxa15uDMV86tx-5XwyH-iNGuP9gYIJe9fB2LrPiu-g=w2400\" alt=\"1_Colorado Blue Spruce\"><\/div><div id=\"desc\"><h3>Colorado Blue Spruce<\/h3><h4> Picea pungens 'Glauca'<\/h4><h4> H100' ,W50' <\/h4><br \/><h4>Evergreen.  Native to the Rocky Mountains.  Pyramidal shape formed by stiff, regular, horizontal branches.  Gray-blue foliage.<\/h4><\/div><\/div>"
+  },
+
+{"id":"605",
+"lat":"36.81134",
+"lng":"-119.74507",
+"title":"Camphor Tree",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/PPeH_DufxzechqrCHBvpUjNzkpOcdPLRadxAvN3nqytil7gOstGw3A=w2400\" alt=\"1_Camphor Tree\"><\/div><div id=\"desc\"><h3>Camphor Tree<\/h3><h4> Cinnamomum camphora<\/h4><h4>H50', W30-60' <\/h4><br \/><h4>Evergreen.  Native to Japan, China, and Taiwan.  Aromatic foliage is yellow-green in winter.  Drops older leaves in March.  New foliage is pink, red, or bronze.  Fragrant, yellowish-white flowers present in May, followed by small, black fruit.  Shallowly rooted.<\/h4><\/div><\/div>"
+  },
+
+{"id":"606",
+"lat":"36.81136",
+"lng":"-119.74478",
+"title":"Carolina Cherry Laurel",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/J11wb-A85DObT8KIMlYbdE-2alafwWSXjT8cGZxVCwXaXNZ0-rooaA=w2400\" alt=\"1_Carolina Cherry Laurel\"><\/div><div id=\"desc\"><h3>Carolina Cherry Laurel<\/h3><h4> Prunus caroliniana<\/h4><h4> H15-40', W25'<\/h4><br \/><h4>Evergreen. Native to the southeastern United States.  Large shrub or medium tree.  Dense, glossy green leaves.  Clusters of creamy white, fragrant flowers in spring, followed by a profusion of cherry-like black fruit in summer.<\/h4><\/div><\/div>"
+  },
+
+{"id":"609",
+"lat":"36.81367",
+"lng":"-119.74526",
+"title":"Colorado Spruce",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/egjvYCh5s3y2wwnnyoqLnAJ8zUDx1ImlFOEQmqGF-7wnRuWNB8y9FA=w2400\" alt=\"1_Colorado Spruc\"><\/div><div id=\"desc\"><h3>Colorado Spruc<\/h3><h4>Picea pungens<\/h4><h4> H100', W50'<\/h4><br \/><h4> Evergreen.  Native to the Rocky Mountains.  Dense, conical growth habit.  Blue-green foliage.<\/h4><\/div><\/div>"
+  },
+
+{"id":"610",
+"lat":"36.81349",
+"lng":"-119.74496",
+"title":"Afghan Pine",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/zRDZjCWeoodERyABUC7PABSlARTJ00kiw0P16qhHZ8T4v2Nei9dfRg=w2400\" alt=\"1_Afghan Pine\"><\/div><div id=\"desc\"><h3>Afghan Pine<\/h3><h4>Pinus eldarica<\/h4><h4>H30-80', W25-40'<\/h4><br \/><h4> Evergreen.  Native from southern Russia to Pakistan.  Conical to mounded growth habit.  Dark green needles, 5\" - 6\" long, in bundles of two.  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"611",
+"lat":"36.81349",
+"lng":"-119.74496",
+"title":"Canary Island Pine",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/6V3yzKyWwf6Z-EiWP9jNR5WuyuGai44z5g_kYfmy_yZZQvM155kwmQ=w2400\" alt=\"1_Afghan Pine\"><\/div><div id=\"desc\"><h3>Canary Island Pine<\/h3><h4>Pinus canariensis<\/h4><h4>H60-80', W25'<\/h4><br \/><h4> Evergreen.  Native to the Canary Islands.  Upright, conical growth habit.  Drooping branchlets of deep green needles, 9\" - 12\" long, in bundles of three.  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"612",
+"lat":"36.81326",
+"lng":"-119.74396",
+"title":"Peppermint Gum",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/1FTzsmZySBjJDhb7vw3VwEu-xx3iUW8AefqDezfQKDlSdKr2V8TzCg=w2400\" alt=\"1_Peppermint Gum\"><\/div><div id=\"desc\"><h3>Peppermint Gum<\/h3><h4>Eucalyptus nicholii<\/h4><h4>H40', W25'<\/h4><br \/><h4>  Evergreen.  Native to Australia.  Upright main trunk, rounded crown, spreading branches.  Reddish brown bark.  Narrow, light green, peppermint-scented leaves.  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"613",
+"lat":"36.81334",
+"lng":"-119.74337",
+"title":"Shiny Xylosma",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/1FTzsmZySBjJDhb7vw3VwEu-xx3iUW8AefqDezfQKDlSdKr2V8TzCg=w2400\" alt=\"1_Shiny Xylosma\"><\/div><div id=\"desc\"><h3>Shiny Xylosma<\/h3><h4>Xylosma congestum<\/h4><h4>H10-30', W to 25'<\/h4><br \/><h4>  Evergreen.  Native to southern China.  Large shrub or small tree; can be single-or multi-trunked.  Pointed oval leaves are bronze in spring, later turning dark, glossy green. Inconspicuous yellow-green flowers, in late fall, have a honey-like fragrance.<\/h4><\/div><\/div>"
+  },
+
+  {"id":"616",
+"lat":"36.81449",
+"lng":"-119.7421",
+"title":"Kurrajong Bottle Tree",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com/dGa_Tiu7xSy1ebShBLbxJSSlQgsJUg6IhxfixCIQWR4HiPS0jJqVUg=w2400\" alt=\"1_Kurrajong Bottle Tree\"><\/div><div id=\"desc\"><h3>Kurrajong Bottle Tree<\/h3><h4> Brachychiton populneus (Sterculia diversifolia)<\/h4><h4>H30-50', W30'<\/h4><br \/><h4>   Evergreen.  Native to Australia.  Upright growth habit in youth; dense, rounded crown when mature. Broad-based, tapering trunk.  Inconspicuous, white, bell-shaped flowers are present May-June.  Clusters of woody seed pods in summer.<\/h4><\/div><\/div>"
+  },
+
+{"id":"618",
+"lat":"36.81229",
+"lng":"-119.7427",
+"title":"Cork Oak",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/06Y_HmduL8jtWKuJ2JvN9ByIXx39A1ow2g-Ff3ZyssO179x1GHb9hg=w2400\" alt=\"1_Cork Oak\"><\/div><div id=\"desc\"><h3>Cork Oak<\/h3><h4> Quercus suber<\/h4><h4> H70 - 100', W70' <\/h4><br \/><h4>Evergreen.  Native to the western Mediterranean region. Trunk is covered with thick, corky bark.  Dull green, toothed leaves. Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"621",
+"lat":"36.81181",
+"lng":"-119.74404",
+"title":"Olive",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/ZeqXOivmZUN8cEN31kN1QOz6mKD03Y3NnQTwpdPEc7Sbcz292huJFw=w2400\" alt=\"1_Olive\"><\/div><div id=\"desc\"><h3>Olive<\/h3><h4> Olea europaea<\/h4><h4>H30', W30' <\/h4><br \/><h4> Evergreen.  Native to the Mediterranean region.  Usually multi-trunked.  Leathery, gray-green leaves.  Small, fragrant, white flowers.  Fruit is green when young, ripening to black before dropping.  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"624",
+"lat":"36.8111",
+"lng":"-119.74419",
+"title":"Southern Magnolia",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/Il6ZxtUhEVzTgZ7TLn2ejKqF7nbpLpw9CJ-efPrJXpfSK41jnrInrA=w2400\" alt=\"1_Southern Magnolia\"><\/div><div id=\"desc\"><h3>Southern Magnolia<\/h3><h4>Magnolia grandiflora<\/h4><h4>H80', W40'<\/h4><br \/><h4>Evergreen.  Native to the southeastern United States.  Large leathery, dark green leaves have rust-colored undersides.  Large, fragrant, white flowers in May and June.  Fruit is a 3\" - 8\" reddish pod, splitting to reveal red-orange seeds.<\/h4><\/div><\/div>"
+  },
+
+{"id":"625",
+"lat":"36.81055",
+"lng":"-119.74411",
+"title":"Japanese Black Pine",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/bUgTadPyqORGRbgPEUoXZXT4nqk9zWOIVanMLBBbVQLzNbdMvrU4mA=w2400\" alt=\"1_Japanese Black Pine\"><\/div><div id=\"desc\"><h3>Japanese Black Pine<\/h3><h4>Pinus thunbergii<\/h4><h4>H30' (in San Joaquin Valley), W30' <\/h4><br \/><h4>Evergreen. Native to Japan.  Irregular growth habit with spreading branch structure.  Dark green needles in bundles of two.  Fruit is a 3\" shiny brown cone.<\/h4><\/div><\/div>"
+  },
+
+{"id":"629",
+"lat":"36.8104",
+"lng":"-119.7466",
+"title":"Coast Live Oak, California Live Oak",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/yyihOgRbw_vb9q0xHNjImUzlUrUyhfDA-021pK7GZokeigDx2AGPsg=w2400\" alt=\"1_Coast Live Oak, California Live Oak\"><\/div><div id=\"desc\"><h3>Coast Live Oak, California Live Oak<\/h3><h4> Quercus agrifolia<\/h4><h4>H30-75', W60-100'<\/h4><br \/><h4>Evergreen.  Native to California's coast ranges.  Spreading growth habit. Rounded, toothed, dark green leaves.  Drought tolerant when established.<\/h4><\/div><\/div>"
+  },
+
+{"id":"630",
+"lat":"36.81038",
+"lng":"-119.74689",
+"title":"Foothill Pine, Gray Pine",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/9DPJI3yRB87lpzvGEg-CBvd5LIwDW62I5VP3CoADUq8xOPEuKGDJXQ=w2400\" alt=\"1_Foothill Pine, Gray Pine\"><\/div><div id=\"desc\"><h3>Foothill Pine, Gray Pine<\/h3><h4>Pinus sabiniana<\/h4><h4>H40-80', W30' <\/h4><br \/><h4>Evergreen.  Native to California's coast ranges and Sierra Nevada (elev. 100'-3,000').  Upright, with open growth habit.  Can have multiple trunks.  Needles in bundles of three.  Large cones contain edible seeds.  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+  {"id":"636",
+"lat":"36.81021",
+"lng":"-119.74879",
+"title":"Italian Stone Pine, Umbrella Pine",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/UGetk2MbtgBPOyZlosmOKEDfwKkQ5QMtZxCvMANXW8-cnRMlnLVzFw=w2400\" alt=\"1_Italian Stone Pine, Umbrella Pine\><\/div><div id=\"desc\"><h3>Italian Stone Pine, Umbrella Pine<\/h3><h4>Pinus pinea <\/h4><h4> H40-80', W40'-50'<\/h4><br \/><h4> Evergreen.  Native to southern Europe and Turkey.  Canopy is rounded when young and umbrella-shaped when mature.  Needles in bundle of two.  Large cone contains edible seeds (pine nuts).  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"637",
+"lat":"36.81031",
+"lng":"-119.7479",
+"title":"Bunya Bunya",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/Sn7v7w7acHBz1z2pKcES4FlUk0HFahTPhvD7onL9gTDl4Bh-ltpjkg=w2400\" alt=\"1_Bunya Bunya\><\/div><div id=\"desc\"><h3>Bunya Bunya<\/h3><h4>Araucaria bidwillii<\/h4><h4>H100', W40-60'<\/h4><br \/><h4>  Evergreen.  Native to Australia.  Conical growth habit when young; rounded crown when mature.  Sharp-tipped, lanceolate or oval leaves arranged in overlapping rows along the branches.  Produces cones up to 20 lb.<\/h4><\/div><\/div>"
+  },
+
+{"id":"638",
+"lat":"36.81078",
+"lng":"-119.74735",
+"title":"Bay Laurel, Grecian Laurel, Sweet Bay",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/QNjA9fCZe5Oax9v5k1s_vfJ9bIooN6nH2LYszMBJLB8W5YJyyAObxw=w2400\" alt=\"1_Bay Laurel, Grecian Laurel, Sweet Bay\><\/div><div id=\"desc\"><h3>Bay Laurel, Grecian Laurel, Sweet Bay<\/h3><h4>Laurus nobilis<\/h4><h4> H12-40'<\/h4><br \/><h4>Evergreen.  Native to the Mediterranean region.  Dense, rounded growth habit; slightly conical crown.  Dark green, aromatic leaves are pointed, oval, 2\"-4\" long.  Clusters of small, yellow-green flowers.  Fruit is a small, black berry.<\/h4><\/div><\/div>"
+  },
+
+{"id":"640",
+"lat":"36.81211",
+"lng":"-119.74798",
+"title":"Austrian Black Pine",
+"dist":-1,
+"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/Z-D9JktCQ66eq7QkwULyk6ore9Y23I42fXmB8ZyJLYZg0GKxtkPHug=w2400\" alt=\"1_Austrian Black Pine\><\/div><div id=\"desc\"><h3>Austrian Black Pine<\/h3><h4> Pinus nigra<\/h4><h4>H40', W30'<\/h4><br \/><h4> Evergreen.  Native to Europe (Austria and from northern Italy to the Balkans).  Dense growth habit, domed crown.  Trunk of older trees has a distinct pattern of brown furrows with gray, flattened ridges.  Dark green needles in bundles of two.<\/h4><\/div><\/div>"
+  },
+
+{"id":"647",
+"lat":"36.81415",
+"lng":"-119.74675",
+"title":"Deodar Cedar",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/OrDFJshok_lEA0mClILLt5ZvoKTHv5BQaG3dEc5u9EI_GlnGfZ0IjQ=w2400\" alt=\"1_Deodar Cedar\><\/div><div id=\"desc\"><h3>Deodar Cedar<\/h3><h4>Cedrus deodara<\/h4><h4>H30-100', W40-60'<\/h4><br \/><h4> Evergreen Native to the western Himalayas.  Broadly pyramidal growth habit, developing a flattened crown with age.  Spreading branches with downward-pointing tips give the tree a weeping aspect<\/h4><\/div><\/div>"
+  },
+
+
+{"id":"648",
+"lat":"36.8133",
+"lng":"-119.74675",
+"title":"Chinese Hackberry",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/VGpf6jXvB6JPjCVa4RQ2oBFSd1HmbsgC80_k7scJ6-qbwwRe_6j05Q=w2400\" alt=\"1_Chinese Hackberry\><\/div><div id=\"desc\"><h3>Chinese Hackberry<\/h3><h4>Celtis sinensis<\/h4><h4>H80-100', W40-60'<\/h4><br \/><h4>Evergreen Native to China, Korea, and Japan.  Irregular habit when young, maturing into a vase-shaped tree.  Yellow fall color.  Orange fruit, ripening to red-brown, is present in fall.  Deep-rooted.<\/h4><\/div><\/div>"
+  },
+
+{"id":"652",
+"lat":"36.81288",
+"lng":"-119.74609",
+"title":"Jelecote Pine, Mexican Weeping Pine",
+"dist":-1,
+"description":"<div id=\"infobubble\"><\/div><div id=\"desc\"><h3>Jelecote Pine, Mexican Weeping Pine<\/h3><h4>Pinus patula<\/h4><h4>H80'<\/h4><br \/><h4> Evergreen Native to Mexico.  Conical or rounded growth habit.  Light green, drooping needles in bundles of three.  Pale brown cones are 4\" long.<\/h4><\/div><\/div>"
+  },
+
+{"id":"656",
+"lat":"36.81241",
+"lng":"-119.74602",
+"title":"Mediterranean Fan Palm, European Fan Palm",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/OTnATNABINK3vxgvYbXXoDafV8mbyFoiYclJcpIQIrYqNOoJFrYe1A=w2400\" alt=\"1_Mediterranean Fan Palm, European Fan Palm\"><\/div><div id=\"desc\"><h3>Mediterranean Fan Palm, European Fan Palm<\/h3><h4>Chamaerops humilis<\/h4><h4> H20' ,W20'<\/h4><br \/><h4>Evergreen.  Native to the Mediterranean region.  The only palm native to Europe.  Plant develops a clumping form from basal off-shoots.  Light green, fan-shaped leaves.  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"659",
+"lat":"36.81213",
+"lng":"-119.74631",
+"title":"Cabbage Palm, Palmetto Palm",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/V4z2A5OTZovl8hojHMHlVZd4h2ewxUl5En27NR-y7lduNf2t9W0WJQ=w2400\" alt=\"1_Cabbage Palm, Palmetto Palm\"><\/div><div id=\"desc\"><h3>Cabbage Palm, Palmetto Palm<\/h3><h4>Sabal palmetto<\/h4><h4>H40-50'<\/h4><br \/><h4>Evergreen.  Native to the southeastern United States and the Bahamas.  Fan-shaped, curved leaves form a dense, coarse crown.  Long panicles of cream-colored flowers in summer.<\/h4><\/div><\/div>"
+  },
+
+
+{"id":"661",
+"lat":"36.81206",
+"lng":"-119.7458",
+"title":"Blue Atlas Cedar",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/-8MDfdkbka8idAJC27DRtc0CQBANk6Fs4vLY-6VjNyclNlXqz9GRyQ=w2400\" alt=\"1_Blue Atlas Cedar\"><\/div><div id=\"desc\"><h3>Blue Atlas Cedar<\/h3><h4>Cedrus atlantica 'Glauca'<\/h4><h4> H60, W30'<\/h4><br \/><h4>Evergreen.  Native to Morocco and Algeria on the foothill slopes of the Atlas mountains.  Stiff, irregular branching habit, becoming conical with age.  Silvery blue needles borne in tight clusters.  Cones borne on the upper side of branches.  Deeply rooted.<\/h4><\/div><\/div>"
+  },
+
+{"id":"662",
+"lat":"36.81155",
+"lng":"-119.74609",
+"title":"Pindo palm, jelly palm",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/DXplOVh2pLZSI10zRuSd1M2GgvmzszDKpIdojSwkK0QwtNRs7_O9fQ=w2400\" alt=\"1_Pindo palm, jelly palm\"><\/div><div id=\"desc\"><h3>Pindo palm, jelly palm<\/h3><h4>Butia capitata, Pindo palm<\/h4><h4>H20'<\/h4><br \/><h4>Evergreen.  Native to South America.  Thick-trunked.  Arching, feathery, gray-green fronds curve downward toward the trunk.  Long panicles of yellow flowers.  Orange, edible fruit.  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"667",
+"lat":"36.811",
+"lng":"-119.75147",
+"title":"Strawberry Tree",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/gCkNlLn7uyUObQ0gxvhIW33QrFHF5TDWyjEbIl-lvKv7KtdgRv0NKw=w2400\" alt=\"1_Strawberry Tree\"><\/div><div id=\"desc\"><h3>Strawberry Tree<\/h3><h4>Arbutus unedo<\/h4><h4>H25', W25' <\/h4><br \/><h4>Evergreen.  Native to the Mediterranean region and Ireland.  Large shrub or small, often multi-trunked tree.  Leathery, dark green leaves.  Both its white flowers and the fruit can be present at the same time, in fall and winter.  Round fruit, maturing from yellow to red, with a granular surface texture.<\/h4><\/div><\/div>"
+  },
+
+{"id":"670",
+"lat":"36.81215",
+"lng":"-119.75057",
+"title":"Giant Sequoia",
+"dist":-1,"description":"<div id=\"infobubble\"><\/div><div id=\"desc\"><h3>Giant Sequoia<\/h3><h4>Sequoiadendron giganteum<\/h4><h4>H to 300', W 100'<\/h4><br \/><h4> Evergreen.  Native to the Sierra Nevada of California.  Conical growth habit when young, becoming columnar.  Bark is reddish brown, fire-resistant.  Dense, gray-green, scalelike foliage.  This specimen was planted in 1990.<\/h4><\/div><\/div>"
+  },
+
+{"id":"671",
+"lat":"36.81223",
+"lng":"-119.75098",
+"title":"Mediterranean Fan Palm, European Fan Palm 2",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/IvL0s3TuO1mzCc0k5b1kRIBuQDiuGVZVzLkzD-inL1cvf7oDZrho-A=w2400\" alt=\"1_Mediterranean Fan Palm, European Fan Palm\"><\/div><div id=\"desc\"><h3>editerranean Fan Palm, European Fan Palm<\/h3><h4>Chamaerops humilis<\/h4><h4>H20', W 20'<\/h4><br \/><h4> Evergreen.  Native to the Mediterranean region.  The only palm native to Europe.  Plant develops a clumping form from basal off-shoots.  Light green, fan-shaped leaves.  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"672",
+"lat":"36.81245",
+"lng":"-119.75104",
+"title":"Queen Palm",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/Yb78to_XLEuVOMQYBWtH26-McXscRgxGQ0WX6_Bqya1666aNdrco-w=w2400\" alt=\"1_Queen Palm\"><\/div><div id=\"desc\"><h3>Queen Palm<\/h3><h4> Sygarus romanzoffianum (Arecastrum romanzoffianum)<\/h4><h4> H50'<\/h4><br \/><h4>Evergreen.  Native to Argentina and Brazil.  Single trunk with open crown of long, pinnately compound leaves.  Panicles of whitish-yellow flowers followed by orange-colored, inedible fruit.<\/h4><\/div><\/div>"
+  },
+
+
+{"id":"673",
+"lat":"36.81242",
+"lng":"-119.75052",
+"title":"Cinnamon Camphor",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/r3ofTjjo6eCfQGPnA-vhr3Nrvmve-j7nnaz6vR_Qvw4t7qMzsZk9iQ=w2400\" alt=\"1_Cinnamon Camphor\"><\/div><div id=\"desc\"><h3>Cinnamon Camphor<\/h3><h4> Cinnamomum camphora<\/h4><h4>  H50', W30-60'<\/h4><br \/><h4>Evergreen.  Native to Japan, China, and Taiwan.  Aromatic foliage is yellow-green in winter.  Drops older leaves in March.  New foliage is pink, red, or bronze.  Fragrant, yellowish-white flowers present in May, followed by small, black fruit.  Shallowly rooted.<\/h4><\/div><\/div>"
+  },
+
+{"id":"676",
+"lat":"36.81378",
+"lng":"-119.74989",
+"title":"Weeping Bottlebrush",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/-bjtoF7VOM4UFlkh3doWvQjww3xp_DarFPdFpauVfAX0n8PVF1XnHg=w2400\" alt=\"1_Weeping Bottlebrush\"><\/div><div id=\"desc\"><h3>Weeping Bottlebrush<\/h3><h4>Callistemon viminalis<\/h4><h4> H20-30', W15' <\/h4><br \/><h4>Evergreen.  Native to Australia.  Large shrub or small tree.  Long, narrow, light green leaves that grow at the ends of branches cause the weeping effect.  Terminal clusters of bottlebrush-like flowers with long, red stamens are present from late spring to summer.<\/h4><\/div><\/div>"
+  },
+
+
+{"id":"679",
+"lat":"36.81477",
+"lng":"-119.74942",
+"title":"Evergreen Maple",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/cdiSCbyyTmAOWmnQmyJuLX6-FRnU8KnecXglUeH-TfjnTWCYEJgnzg=w2400\" alt=\"1_Evergreen Maple\"><\/div><div id=\"desc\"><h3>Evergreen Maple<\/h3><h4> Acer oblongum<\/h4><h4>H25', W30' <\/h4><br \/><h4>Evergreen or partially evergreen.Native to the Himalayas and China.  Dense, rounded growth habit.  Narrow, deep green leaves.  Fruit is winged samara.<\/h4><\/div><\/div>"
+  },
+
+
+
+{"id":"683",
+"lat":"36.81553",
+"lng":"-119.74784",
+"title":"Italian Cypress",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/3exEGsGXfqTzmjnA4Ec1Jv9Ecqh-hwmQKDHLhYfSGcGBVP1XgmHJbQ=w2400\" alt=\"1_Italian Cypress\"><\/div><div id=\"desc\"><h3>Italian Cypress<\/h3><h4>Cupressus sempervirens 'Stricta'<\/h4><h4> H60', W8'<\/h4><br \/><h4>Evergreen.  Native to the eastern Mediterranean region and western Asia.  Upright, narrowly columnar growth habit.  Dark green foliage.  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"684",
+"lat":"36.81517",
+"lng":"-119.74863",
+"title":"Red Ironbark",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/xOJyR2t3xgiBnp8zIaddV66HX4SEp7F5tt781EVw5aHHxxkykSTXUw=w2400\" alt=\"1_Red Ironbark\"><\/div><div id=\"desc\"><h3>Red Ironbark<\/h3><h4>Eucalyptus sideroxylon 'Rosea'<\/h4><h4> H30-50'<\/h4><br \/><h4>Evergreen.  Native to Australia.  Red-brown bark.  Slender, blue-green leaves turn bronze in winter.  Red or deep rose flowers borne in umbels.<\/h4><\/div><\/div>"
+  },
+
+{"id":"685",
+"lat":"36.81413",
+"lng":"-119.74879",
+"title":"Aleppo Pine",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/XtLciKTOj6qTE9J760zpgHNCUlJQ745Ckrrho1Y6N10i4w6ps53WZA=w2400\" alt=\"1_Aleppo Pine\"><\/div><div id=\"desc\"><h3>Aleppo Pine<\/h3><h4>Pinus halepensis<\/h4><h4> H30-60', W20-30'<\/h4><br \/><h4>Evergreen.  Native to the Mediterranean region.  Open growth habit and rounded crown when mature.  Short, light green needles in bundles of two.  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"687",
+"lat":"36.81359",
+"lng":"-119.74883",
+"title":"Coast Redwood, California Redwood",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/okoGspKIidfCYDnDbITrOOrs5JSAYGUIUDJ_eL53ar4aQgh5pKN1Vg=w2400\" alt=\"1_Coast Redwood, California Redwood\"><\/div><div id=\"desc\"><h3>Coast Redwood, California Redwood<\/h3><h4>Sequoia sempervirens<\/h4><h4>H120', W20-30'<\/h4><br \/><h4>Evergreen.  Native to the coastal ranges of Oregon and northern California.  Conical, moderately dense growth habit.  Dark green, needle-like leaves.<\/h4><\/div><\/div>"
+  },
+
+{"id":"688",
+"lat":"36.81344",
+"lng":"-119.74857",
+"title":"Silk Oak",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/gfvP0HtpuTIGx2saXx09ICBWo1jsAQ8kwfE6g6XvQ4V764BSSzlFOQ=w2400\" alt=\"1_Silk Oak\"><\/div><div id=\"desc\"><h3>Silk Oak<\/h3><h4>Grevillea robusta<\/h4><h4>H50-75', W25-30' <\/h4><br \/><h4>Evergreen.  Native to Australia.  Conical when young; crown broadens with age.  Fernlike leaves are dark green with pale undersides.  Large clusters of deep orange flowers in May.<\/h4><\/div><\/div>"
+  }]; all_markers.evergreenTrees = points; points = [];
+
+  var points = [{"id":"660",
+"lat":"36.81212 ",
+"lng":"-119.74616",
+"title":"Evergreen Pear",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/_q0-ZKaZjLqzwj8JnewAhK7ofQcvFCrQQNSFTL7Q9XGcFMW2652geA=w2400\" alt=\"1_Evergreen Pear\"><\/div><div id=\"desc\"><h3>Evergreen Pear<\/h3><h4>Pyrus kawakamii<\/h4><h4>H40-50'<\/h4><br \/><h4>Evergreen.  Semi-evergreen (in Fresno).  Native to Taiwan.  Branches sometimes have thorns.  Leaves have finely serrated margins.  Fall color is yellowish-orange.  White flowers during February.  Small, inedible fruit.<\/h4><\/div><\/div>"
+  },
+
+{"id":"689",
+"lat":"36.8108",
+"lng":"-119.74884",
+"title":"Chinese Elm, Lacebark Elm",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/jd4P57dAoLcvHNIVM1G0YHm0V7Ylq_Q00M2fsUqkSsBEa_k-6LrQgg=w2400\" alt=\"1_Chinese Elm, Lacebark Elm\"><\/div><div id=\"desc\"><h3>Chinese Elm, Lacebark Elm<\/h3><h4>Ulmus parvifolia<\/h4><h4>H40-60', W50-70' <\/h4><br \/><h4>Semi-evergreen.  Native to China, Japan, and Korea.  Upright growth habit with rounded crown.  Bark of older trees flakes off to reveal orange-colored inner bark.  Yellow-orange fall color.<\/h4><\/div><\/div>"}]; all_markers.semiEvergreenTrees = points; points = [];
+
+var points = [{"id":"642",
+    "lat":"36.81254",
+    "lng":"-119.74691",
+    "title":"Dawn Redwood",
+    "dist":-1,
+    "description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/7h1QyLoOyzJwMPxP8a4jOY_7zYuWncpcaM0duUL1_yGNqX6haXsPCA=w2400\" alt=\"1_Dawn Redwood\><\/div><div id=\"desc\"><h3>Dawn Redwood<\/h3><h4> Metasequoia glyptostroboides<\/h4><h4>H90', W25-35'<\/h4><br \/><h4> Deciduous conifer.Native to China.  Upright, conical growth habit.  Orange-brown bark, light bright green leaves turn bronze in fall.<\/h4><\/div><\/div>"
+      },
+
+{"id":"666",
+    "lat":"36.81145",
+    "lng":"-119.75005",
+    "title":"Bald Cypress",
+    "dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/U7KG-uIpveBrGd1c0ipLTbJCj3o9b9L2gPztq94b6zhy23tEgt1jbg=w2400\" alt=\"1_Bald Cypress\"><\/div><div id=\"desc\"><h3>Bald Cypress<\/h3><h4> Taxodium distichum<\/h4><h4> H60-125', W30-75' <\/h4><br \/><h4> Deciduous conifer.  Native to swamp areas of the southeastern and Midwestern United States.  Narrowly conical growth habit.  Orange-brown fall color.<\/h4><\/div><\/div>"
+      }];  all_markers.deciduousConiferTrees = points; points = [];
+
+var points = [{"id":"601",
+"lat":"36.80969",
+"lng":"-119.74515",
+"title":"Red Oak",
+"dist":-1,
+"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"float: right;width: 70px;height:90px;\" src=\"https:\/\/image.ibb.co\/cCk08n\/617b89f325b85f0917e83fc2443d840c.jpg\" alt=\"1_Red_Oak\"><\/div><div id=\"desc\"><h3>Red Oak<\/h3><h4>Quercus rubra<\/h4><h4>H90', W60'<\/h4><br \/><h4>Deciduous.  Native to eastern North America.  New leaves are red, turning dark green.  Fall color is dark red, reddish brown or orange.  Deeply rooted.<\/h4><\/div><\/div>"
+  },
+
+{"id":"602",
+"lat":"36.8108",
+"lng":"-119.74486",
+"title":"Fern Pine",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/1UtDbHJDWoaSXkPlCtarNVBSVa7_yww1DB15F_17asHj_ckwxLE7nQ=w2400 \" alt=\"1_Fern Pine\"><\/div><div id=\"desc\"><h3>Fern Pine<\/h3><h4>Podocarpus gracilior<\/h4><h4> H60', W15'<\/h4><br \/><h4>Evergreen.  Native to Kenya, Uganda, and Ethiopia.  Round-headed or oval, with a weeping aspect.  Fine-textured foliage is bright green or dark green.  Blue, berry-like fruit.<\/h4><\/div><\/div>"
+  },
+
+{"id":"603",
+"title":"willow pittosporum",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/JcLAHzO9MBlXvTwt40fguXTEp4NIQZnjIjmEbM7KzSdiAGp0Jz96NA=w2400 \" alt=\"1_willow pittosporum\"><\/div><div id=\"desc\"><h3>willow pittosporum<\/h3><h4>Pittosporum phillyraeoides<\/h4><h4>H20', W15'<\/h4><br \/><h4>Evergreen.  Native to Australia.  Spreading, weeping habit.  Narrow, light green leaves.  Small, fragrant yellow flowers in late winter followed by spherical, deep yellow fruit.<\/h4><\/div><\/div>"
+  },
+
+{"id":"604",
+"lat":"36.81114",
+"lng":"-119.74503",
+"title":"Colorado Blue Spruce",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/IyGqBh67IAn6yxa15uDMV86tx-5XwyH-iNGuP9gYIJe9fB2LrPiu-g=w2400\" alt=\"1_Colorado Blue Spruce\"><\/div><div id=\"desc\"><h3>Colorado Blue Spruce<\/h3><h4> Picea pungens 'Glauca'<\/h4><h4> H100' ,W50' <\/h4><br \/><h4>Evergreen.  Native to the Rocky Mountains.  Pyramidal shape formed by stiff, regular, horizontal branches.  Gray-blue foliage.<\/h4><\/div><\/div>"
+  },
+
+{"id":"605",
+"lat":"36.81134",
+"lng":"-119.74507",
+"title":"Camphor Tree",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/PPeH_DufxzechqrCHBvpUjNzkpOcdPLRadxAvN3nqytil7gOstGw3A=w2400\" alt=\"1_Camphor Tree\"><\/div><div id=\"desc\"><h3>Camphor Tree<\/h3><h4> Cinnamomum camphora<\/h4><h4>H50', W30-60' <\/h4><br \/><h4>Evergreen.  Native to Japan, China, and Taiwan.  Aromatic foliage is yellow-green in winter.  Drops older leaves in March.  New foliage is pink, red, or bronze.  Fragrant, yellowish-white flowers present in May, followed by small, black fruit.  Shallowly rooted.<\/h4><\/div><\/div>"
+  },
+
+{"id":"606",
+"lat":"36.81136",
+"lng":"-119.74478",
+"title":"Carolina Cherry Laurel",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/J11wb-A85DObT8KIMlYbdE-2alafwWSXjT8cGZxVCwXaXNZ0-rooaA=w2400\" alt=\"1_Carolina Cherry Laurel\"><\/div><div id=\"desc\"><h3>Carolina Cherry Laurel<\/h3><h4> Prunus caroliniana<\/h4><h4> H15-40', W25'<\/h4><br \/><h4>Evergreen. Native to the southeastern United States.  Large shrub or medium tree.  Dense, glossy green leaves.  Clusters of creamy white, fragrant flowers in spring, followed by a profusion of cherry-like black fruit in summer.<\/h4><\/div><\/div>"
+  },
+
+{"id":"607",
+"lat":"36.81188",
+"lng":"-119.74504",
+"title":"Modesto Ash",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/oonkNTUqxHiOWggTUzScYpHKy1wLfzBULKKynNEjOHvCBFrWdCxhXA=w2400\" alt=\"1_Carolina Cherry Laurel\"><\/div><div id=\"desc\"><h3>Modesto Ash<\/h3><h4> Fraxinus velutina 'Modesto'<\/h4><h4> H50', W30'<\/h4><br \/><h4>Deciduous.  F. velutina is native to the southwestern United States.  This variety originated from a tree found in Westside Park, Modesto Calif.  Spreading habit.  Leaves divided into 3-5 lance-shaped leaflets.  Yellow fall color.<\/h4><\/div><\/div>"
+  },
+
+{"id":"608",
+"lat":"36.81303",
+"lng":"-119.74541",
+"title":"Red Maple",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com/_Bu8BiiEGv5DoKOeF_bNgToNR8WRvzlFw-g_U2cCz9WnmuEJ8wDCsw=w2400\" alt=\"1_Red Maple\"><\/div><div id=\"desc\"><h3>Red Maple<\/h3><h4>Acer rubrum<\/h4><h4> H60', W20'<\/h4><br \/><h4>Deciduous.  Native to eastern North America.  Shiny green leaves with paler undersides have 3-5 lobes.  Scarlet fall color.  Dense clusters of red flowers in March-April.  Fruit is a red, winged samara.<\/h4><\/div><\/div>"
+  },
+
+{"id":"609",
+"lat":"36.81367",
+"lng":"-119.74526",
+"title":"Colorado Spruce",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/egjvYCh5s3y2wwnnyoqLnAJ8zUDx1ImlFOEQmqGF-7wnRuWNB8y9FA=w2400\" alt=\"1_Colorado Spruc\"><\/div><div id=\"desc\"><h3>Colorado Spruc<\/h3><h4>Picea pungens<\/h4><h4> H100', W50'<\/h4><br \/><h4> Evergreen.  Native to the Rocky Mountains.  Dense, conical growth habit.  Blue-green foliage.<\/h4><\/div><\/div>"
+  },
+
+{"id":"610",
+"lat":"36.81349",
+"lng":"-119.74496",
+"title":"Afghan Pine",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/zRDZjCWeoodERyABUC7PABSlARTJ00kiw0P16qhHZ8T4v2Nei9dfRg=w2400\" alt=\"1_Afghan Pine\"><\/div><div id=\"desc\"><h3>Afghan Pine<\/h3><h4>Pinus eldarica<\/h4><h4>H30-80', W25-40'<\/h4><br \/><h4> Evergreen.  Native from southern Russia to Pakistan.  Conical to mounded growth habit.  Dark green needles, 5\" - 6\" long, in bundles of two.  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"611",
+"lat":"36.81349",
+"lng":"-119.74496",
+"title":"Canary Island Pine",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/6V3yzKyWwf6Z-EiWP9jNR5WuyuGai44z5g_kYfmy_yZZQvM155kwmQ=w2400\" alt=\"1_Afghan Pine\"><\/div><div id=\"desc\"><h3>Canary Island Pine<\/h3><h4>Pinus canariensis<\/h4><h4>H60-80', W25'<\/h4><br \/><h4> Evergreen.  Native to the Canary Islands.  Upright, conical growth habit.  Drooping branchlets of deep green needles, 9\" - 12\" long, in bundles of three.  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"612",
+"lat":"36.81326",
+"lng":"-119.74396",
+"title":"Peppermint Gum",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/1FTzsmZySBjJDhb7vw3VwEu-xx3iUW8AefqDezfQKDlSdKr2V8TzCg=w2400\" alt=\"1_Peppermint Gum\"><\/div><div id=\"desc\"><h3>Peppermint Gum<\/h3><h4>Eucalyptus nicholii<\/h4><h4>H40', W25'<\/h4><br \/><h4>  Evergreen.  Native to Australia.  Upright main trunk, rounded crown, spreading branches.  Reddish brown bark.  Narrow, light green, peppermint-scented leaves.  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"613",
+"lat":"36.81334",
+"lng":"-119.74337",
+"title":"Shiny Xylosma",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/1FTzsmZySBjJDhb7vw3VwEu-xx3iUW8AefqDezfQKDlSdKr2V8TzCg=w2400\" alt=\"1_Shiny Xylosma\"><\/div><div id=\"desc\"><h3>Shiny Xylosma<\/h3><h4>Xylosma congestum<\/h4><h4>H10-30', W to 25'<\/h4><br \/><h4>  Evergreen.  Native to southern China.  Large shrub or small tree; can be single-or multi-trunked.  Pointed oval leaves are bronze in spring, later turning dark, glossy green. Inconspicuous yellow-green flowers, in late fall, have a honey-like fragrance.<\/h4><\/div><\/div>"
+  },
+
+{"id":"614",
+"lat":"36.81392",
+"lng":"-119.74398",
+"title":"Silk Tree",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/Fd3K59y-yE4zgolJdQWeGFJy8eI7G3-o1bq_BIa7RqknJG9Iraw1gw=w2400\" alt=\"1_Silk Tree\"><\/div><div id=\"desc\"><h3>Silk Tree<\/h3><h4>Albizia julibrissin<\/h4><h4>H20-35', W15-60'<\/h4><br \/><h4>  Deciduous.  Native from Iran to central China.  Spreading, vase-shaped tree with a flat-topped crown; often multi-trunked.  Doubly compound, fernlike leaves fold up at night.  Flowers, present in May and June, are pink, fluffy balls of which the showy portion is stamens.<\/h4><\/div><\/div>"
+  },
+
+{"id":"615",
+"lat":"36.81488",
+"lng":"-119.7421",
+"title":"Babylon Weeping Willow",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/yqznV8V9MpXLlm33WeCaUECs635Tlyytuj9KesljM84-XUQhwpvVLQ=w2400\" alt=\"1_Babylon Weeping Willow\"><\/div><div id=\"desc\"><h3>Babylon Weeping Willow<\/h3><h4> Salix babylonica<\/h4><h4>H50', W50'<\/h4><br \/><h4>   Deciduous.  Native to China.  Rounded, weeping growth habit.  Bright green leaves turn yellow in fall.  Shallowly rooted.<\/h4><\/div><\/div>"
+  },
+
+  {"id":"616",
+"lat":"36.81449",
+"lng":"-119.7421",
+"title":"Kurrajong Bottle Tree",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com/dGa_Tiu7xSy1ebShBLbxJSSlQgsJUg6IhxfixCIQWR4HiPS0jJqVUg=w2400\" alt=\"1_Kurrajong Bottle Tree\"><\/div><div id=\"desc\"><h3>Kurrajong Bottle Tree<\/h3><h4> Brachychiton populneus (Sterculia diversifolia)<\/h4><h4>H30-50', W30'<\/h4><br \/><h4>   Evergreen.  Native to Australia.  Upright growth habit in youth; dense, rounded crown when mature. Broad-based, tapering trunk.  Inconspicuous, white, bell-shaped flowers are present May-June.  Clusters of woody seed pods in summer.<\/h4><\/div><\/div>"
+  },
+
+{"id":"617",
+"lat":"36.81255",
+"lng":"-119.74269",
+"title":"Aristocrat Pear",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/1VrN_q-piL2xraERUGyYzinTnh03PvY7DNzpTTwkPK8yfR5NMwJRxw=w2400\" alt=\"1_Aristocrat Pear\"><\/div><div id=\"desc\"><h3>KAristocrat Pear<\/h3><h4> Pyrus calleryana 'Aristocrat'<\/h4><h4>H40', W30'<\/h4><br \/><h4> Deciduous.  Species is native to China and Korea.  Cultivar was selected by W.T. Shaw, Independence, Kentucky.  Broadly conical growth habit.  Oval, dark green leaves have wavy margins.  Red fall color.  White flowers in umbel-like racemes, present in March.  Drought tolerant when established.<\/h4><\/div><\/div>"
+  },
+
+{"id":"618",
+"lat":"36.81229",
+"lng":"-119.7427",
+"title":"Cork Oak",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/06Y_HmduL8jtWKuJ2JvN9ByIXx39A1ow2g-Ff3ZyssO179x1GHb9hg=w2400\" alt=\"1_Cork Oak\"><\/div><div id=\"desc\"><h3>Cork Oak<\/h3><h4> Quercus suber<\/h4><h4> H70 - 100', W70' <\/h4><br \/><h4>Evergreen.  Native to the western Mediterranean region. Trunk is covered with thick, corky bark.  Dull green, toothed leaves. Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+  {"id":"619",
+"lat":"36.81207",
+"lng":"-119.74302",
+"title":"London Plane Tree",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/HfkhOm-6RLbpPkpoRY54hYPouG838OxwacPdNX5YxpAEdK_YWNgukQ=w2400\" alt=\"1_London Plane Tree\"><\/div><div id=\"desc\"><h3>London Plane Tree<\/h3><h4> Platanus x acerifolia<\/h4><h4>H40-80', W30-40'<\/h4><br \/><h4> Deciduous.  Hybrid of P. occidentalis x P. orientalis.  Exfoliating bark on main trunk reveals patterns in cream, olive, and light brown.  Large, dull green, maple-like leaves.  Bristly, ball-shaped fruit is brown.<\/h4><\/div><\/div>"
+  },
+
+  {"id":"620",
+"lat":"36.81195",
+"lng":"-119.7429",
+"title":"American Sweet Gum",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/6Vp0l5bY9nBFioiAvGpyZ19pjlOQOALJm7MvuguS6rUwT9gheLbVFA=w2400\" alt=\"1_American Sweet Gum\"><\/div><div id=\"desc\"><h3>American Sweet Gum<\/h3><h4> Liquidambar styraciflua<\/h4><h4> H60', W25'<\/h4><br \/><h4> Deciduous.  Native to the eastern and southern United States.  Upright, pyramidal growth habit.  Fall color ranges from orange to burgundy.  Fruit is a spiny ball, borne in clusters, that persists on bare branches in winter.  Shallowly routed.<\/h4><\/div><\/div>"
+},
+
+{"id":"621",
+"lat":"36.81181",
+"lng":"-119.74404",
+"title":"Olive",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/ZeqXOivmZUN8cEN31kN1QOz6mKD03Y3NnQTwpdPEc7Sbcz292huJFw=w2400\" alt=\"1_Olive\"><\/div><div id=\"desc\"><h3>Olive<\/h3><h4> Olea europaea<\/h4><h4>H30', W30' <\/h4><br \/><h4> Evergreen.  Native to the Mediterranean region.  Usually multi-trunked.  Leathery, gray-green leaves.  Small, fragrant, white flowers.  Fruit is green when young, ripening to black before dropping.  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"622",
+"lat":"36.81129",
+"lng":"-119.74382",
+"title":"Chinese Pistache",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/RUPm3gxmbZ6TqqFhV6o4HdUGBlFrDyucfUhdOiserztQLbLj0ZDA5A=w2400\" alt=\"1_Chinese Pistache\"><\/div><div id=\"desc\"><h3>Chinese Pistache<\/h3><h4>  Pistacia chinensis<\/h4><h4>H60', W50' <\/h4><br \/><h4> Native to China, Taiwan and the Philippine Islands.  Red-orange fall color.  Panicles of green to red, fragrant flowers in spring. Red fruit, maturing to blue and borne in clusters, is present in fall.  Deeply rooted. Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"623",
+"lat":"36.81128",
+"lng":"-119.74423",
+"title":"Japanese Maple",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/M73wUSIDBKy0dTLgzBHb3hVemilqtxsBLVP976YDEHDO-OUgCuCf2Q=w2400\" alt=\"1_Japanese Maple\"><\/div><div id=\"desc\"><h3>Japanese Maple<\/h3><h4>Acer palmatum<\/h4><h4>H20-40', W25'<\/h4><br \/><h4> Deciduous.  Native to China, Japan, and Korea.  Fine-textured foliage.  Palmate, deeply lobed leaves.  New leaves are reddish, turning medium green.  Orange to red fall color.  Fruit is a winged samara.<\/h4><\/div><\/div>"
+  },
+
+{"id":"624",
+"lat":"36.8111",
+"lng":"-119.74419",
+"title":"Southern Magnolia",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/Il6ZxtUhEVzTgZ7TLn2ejKqF7nbpLpw9CJ-efPrJXpfSK41jnrInrA=w2400\" alt=\"1_Southern Magnolia\"><\/div><div id=\"desc\"><h3>Southern Magnolia<\/h3><h4>Magnolia grandiflora<\/h4><h4>H80', W40'<\/h4><br \/><h4>Evergreen.  Native to the southeastern United States.  Large leathery, dark green leaves have rust-colored undersides.  Large, fragrant, white flowers in May and June.  Fruit is a 3\" - 8\" reddish pod, splitting to reveal red-orange seeds.<\/h4><\/div><\/div>"
+  },
+
+{"id":"625",
+"lat":"36.81055",
+"lng":"-119.74411",
+"title":"Japanese Black Pine",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/bUgTadPyqORGRbgPEUoXZXT4nqk9zWOIVanMLBBbVQLzNbdMvrU4mA=w2400\" alt=\"1_Japanese Black Pine\"><\/div><div id=\"desc\"><h3>Japanese Black Pine<\/h3><h4>Pinus thunbergii<\/h4><h4>H30' (in San Joaquin Valley), W30' <\/h4><br \/><h4>Evergreen. Native to Japan.  Irregular growth habit with spreading branch structure.  Dark green needles in bundles of two.  Fruit is a 3\" shiny brown cone.<\/h4><\/div><\/div>"
+  },
+
+{"id":"626",
+"lat":"36.81047",
+"lng":"-119.74601",
+"title":"Chinese Tallow Tree, Popcorn Tree",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/VlYvP1m2hMdg4SK5kSwpQBf58ICuHX8rCUMBWiV2BaV49ft619a_6g=w2400\" alt=\"1_Chinese Tallow Tree, Popcorn Tree\"><\/div><div id=\"desc\"><h3>Chinese Tallow Tree, Popcorn Tree<\/h3><h4> Sapium sebiferum<\/h4><h4> H35', W35' <\/h4><br \/><h4>Deciduous.  Native to China.  Effect of foliage is open rather than dense.  Poplar-like leaves turn red-orange in fall.  Spikes of tiny, yellow flowers in spring.  Brown fruit capsules open to reveal white, waxy seeds that persist on the tree in winter.  Deeply rooted.  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"627",
+"lat":"36.81049",
+"lng":"-119.74635",
+"title":"Valley Oak, California White Oak",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/KZUEuT9VWCjmFkRdsMWnuEgdnHwLSq5n08NOWj4i1MQ9v7qqM7C6eQ=w2400\" alt=\"1_Valley Oak, California White Oak\"><\/div><div id=\"desc\"><h3>Valley Oak, California White Oak<\/h3><h4> Quercus lobata<\/h4><h4>H70', W70' <\/h4><br \/><h4>Deciduous.  Native to California's interior valleys, coast ranges, and Sierra Nevada foothills. Spreading growth habit.  Trunk and limbs have gray, checked bark.  Leaves are deeply lobed.  Fruit is an edible acorn.<\/h4><\/div><\/div>"
+  },
+
+  {"id":"628",
+"lat":"36.81025",
+"lng":"-119.74662",
+"title":"Crape Myrtle",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/YLzD-d4OlDpNv7ZIr0t95KtrLK97z5HPlf4HvFVInmE9iiPTXAcKGA=w2400\" alt=\"1_Crape Myrtle\"><\/div><div id=\"desc\"><h3>Crape Myrtle<\/h3><h4> Lagerstroemia indica<\/h4><h4>H6-30'<\/h4><br \/><h4>Deciduous.  Native to China.  Large shrub or small tree, can be multi-trunked.  Bark flakes off, leaving smooth, pale trunk and branches.  Red-orange fall color.  Large terminal panicles of white, pink or lavender flowers, depending on the cultivar, from June to September.  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"629",
+"lat":"36.8104",
+"lng":"-119.7466",
+"title":"Coast Live Oak, California Live Oak",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/yyihOgRbw_vb9q0xHNjImUzlUrUyhfDA-021pK7GZokeigDx2AGPsg=w2400\" alt=\"1_Coast Live Oak, California Live Oak\"><\/div><div id=\"desc\"><h3>Coast Live Oak, California Live Oak<\/h3><h4> Quercus agrifolia<\/h4><h4>H30-75', W60-100'<\/h4><br \/><h4>Evergreen.  Native to California's coast ranges.  Spreading growth habit. Rounded, toothed, dark green leaves.  Drought tolerant when established.<\/h4><\/div><\/div>"
+  },
+
+{"id":"630",
+"lat":"36.81038",
+"lng":"-119.74689",
+"title":"Foothill Pine, Gray Pine",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/9DPJI3yRB87lpzvGEg-CBvd5LIwDW62I5VP3CoADUq8xOPEuKGDJXQ=w2400\" alt=\"1_Foothill Pine, Gray Pine\"><\/div><div id=\"desc\"><h3>Foothill Pine, Gray Pine<\/h3><h4>Pinus sabiniana<\/h4><h4>H40-80', W30' <\/h4><br \/><h4>Evergreen.  Native to California's coast ranges and Sierra Nevada (elev. 100'-3,000').  Upright, with open growth habit.  Can have multiple trunks.  Needles in bundles of three.  Large cones contain edible seeds.  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+  {"id":"631",
+"lat":"36.81032",
+"lng":"-119.74678",
+"title":"Basket Oak, Chestnut Oak",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/qNPk19iohwaSAlZomZgvB4xydD--fgWScojyyTImmd3FkQMrakM5cg=w2400\" alt=\"1_Basket Oak, Chestnut Oak\"><\/div><div id=\"desc\"><h3>Basket Oak, Chestnut Oak<\/h3><h4>Quercus prinus<\/h4><h4>H100' <\/h4><br \/><h4>Deciduous.  Native to the eastern and southern United States.  Dark brown, deeply furrowed bark.  Bright green, coarsely toothed leaves have pale undersides.  Fruit is a dark brown acorn.<\/h4><\/div><\/div>"
+  },
+
+{"id":"632",
+"lat":"36.8107",
+"lng":"-119.74762",
+"title":"Japanese Red Pine",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/ch2OvKygl9UIL4Loxlhx9Qrgy4DE8lagAXtrzqQ-3qSj2g7ddiGZtw=w2400\" alt=\"1_Japanese Red Pine\"><\/div><div id=\"desc\"><h3>Japanese Red Pine<\/h3><h4>Pinus densiflora<\/h4><h4>H100' <\/h4><br \/><h4>Deciduous.  Native to northeast Asia and Japan.  Irregular, spreading growth habit.  Tree usually has two or more trunks branching from near ground level.  Bark of the trunk and main branches of younger trees is orange in color.  Needles in bundles of two.<\/h4><\/div><\/div>"
+  },
+
+{"id":"633",
+"lat":"36.80894",
+"lng":"-119.7478",
+"title":"California sycamore",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/hZ7ZbIsDS6hLFzVVXfhIg5DlkRzD6ncmNnqSUq81vrt_X7iQe0c_Bg=w2400\"alt=\"1_California sycamore\"><\/div><div id=\"desc\"><h3>California sycamore<\/h3><h4> Platanus racemosa<\/h4><h4>H40-90', W50-70'<\/h4><br \/><h4> Deciduous.  Native to stream banks in foothill areas of California and Baja California.  Multiple trunks.  Bark exfoliates to reveal patterns on inner bark.  Large leaves with 5 or 3 lobes.  Fruit is a brown, slightly shiny ball, borne in clusters.<\/h4><\/div><\/div>"
+  },
+
+{"id":"634",
+"lat":"36.8091",
+"lng":"-119.74864",
+"title":"Pecan",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/IlvopEjU9oTtFKA3VsYY3g5kY0R9-A-v9hfUTuopbDq1aZuCsamavw=w2400\" alt=\"1_Pecan\><\/div><div id=\"desc\"><h3>Pecan<\/h3><h4> Carya illinoiensis<\/h4><h4>H70', W70'<\/h4><br \/><h4> Deciduous.  Native to the central and southern United States.  Upright growth habit, oval crown.  Leaves are pinnate, with 11-17 leaflets.  Yellow fall color.  Fruit is an edible nut.<\/h4><\/div><\/div>"
+  },
+
+{"id":"635",
+"lat":"36.80929",
+"lng":"-119.74907",
+"title":"Purple Leaf Plum, Cherry Plum",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/dxBkHLBmuwcARSrFeL2JBai5si5IlW6z_vFUIY0og4TyPaw0J7Ywrg=w2400\" alt=\"1_Purple Leaf Plum, Cherry Plum\><\/div><div id=\"desc\"><h3>Purple Leaf Plum, Cherry Plum<\/h3><h4>Prunus cerasifera 'Thundercloud' <\/h4><h4> H30'<\/h4><br \/><h4> Deciduous.  Native to southwestern Asia and southeastern Europe.  Leaves of this cultivar remain purple through the summer.  Single pink flowers.  Other cultivars have green red leaf color, white flowers.  Some bear edible, plum-like fruit.<\/h4><\/div><\/div>"
+  },
+
+  {"id":"636",
+"lat":"36.81021",
+"lng":"-119.74879",
+"title":"Italian Stone Pine, Umbrella Pine",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/UGetk2MbtgBPOyZlosmOKEDfwKkQ5QMtZxCvMANXW8-cnRMlnLVzFw=w2400\" alt=\"1_Italian Stone Pine, Umbrella Pine\><\/div><div id=\"desc\"><h3>Italian Stone Pine, Umbrella Pine<\/h3><h4>Pinus pinea <\/h4><h4> H40-80', W40'-50'<\/h4><br \/><h4> Evergreen.  Native to southern Europe and Turkey.  Canopy is rounded when young and umbrella-shaped when mature.  Needles in bundle of two.  Large cone contains edible seeds (pine nuts).  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"637",
+"lat":"36.81031",
+"lng":"-119.7479",
+"title":"Bunya Bunya",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/Sn7v7w7acHBz1z2pKcES4FlUk0HFahTPhvD7onL9gTDl4Bh-ltpjkg=w2400\" alt=\"1_Bunya Bunya\><\/div><div id=\"desc\"><h3>Bunya Bunya<\/h3><h4>Araucaria bidwillii<\/h4><h4>H100', W40-60'<\/h4><br \/><h4>  Evergreen.  Native to Australia.  Conical growth habit when young; rounded crown when mature.  Sharp-tipped, lanceolate or oval leaves arranged in overlapping rows along the branches.  Produces cones up to 20 lb.<\/h4><\/div><\/div>"
+  },
+
+{"id":"638",
+"lat":"36.81078",
+"lng":"-119.74735",
+"title":"Bay Laurel, Grecian Laurel, Sweet Bay",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/QNjA9fCZe5Oax9v5k1s_vfJ9bIooN6nH2LYszMBJLB8W5YJyyAObxw=w2400\" alt=\"1_Bay Laurel, Grecian Laurel, Sweet Bay\><\/div><div id=\"desc\"><h3>Bay Laurel, Grecian Laurel, Sweet Bay<\/h3><h4>Laurus nobilis<\/h4><h4> H12-40'<\/h4><br \/><h4>Evergreen.  Native to the Mediterranean region.  Dense, rounded growth habit; slightly conical crown.  Dark green, aromatic leaves are pointed, oval, 2\"-4\" long.  Clusters of small, yellow-green flowers.  Fruit is a small, black berry.<\/h4><\/div><\/div>"
+  },
+
+{"id":"639",
+"lat":"36.81206",
+"lng":"-119.74798",
+"title":"Lombardy Poplar",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/C4IJLoj7vvmby7Z1MS1Qj60xvTvuFvoUt0B4v3fXQ5TOxWr7Z2Di7Q=w2400\" alt=\"1_Lombardy Poplar\><\/div><div id=\"desc\"><h3>Lombardy Poplar<\/h3><h4>Populus nigra 'Italica<\/h4><h4>H40-90', W10-25'<\/h4><br \/><h4> Deciduous.  Native to the Mediterranean region.  Fast-growing and short-lived.  Upright, columnar growth habit.  Yellow fall color.  Shallowly rooted.<\/h4><\/div><\/div>"
+  },
+
+
+{"id":"640",
+"lat":"36.81211",
+"lng":"-119.74798",
+"title":"Austrian Black Pine",
+"dist":-1,
+"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/Z-D9JktCQ66eq7QkwULyk6ore9Y23I42fXmB8ZyJLYZg0GKxtkPHug=w2400\" alt=\"1_Austrian Black Pine\><\/div><div id=\"desc\"><h3>Austrian Black Pine<\/h3><h4> Pinus nigra<\/h4><h4>H40', W30'<\/h4><br \/><h4> Evergreen.  Native to Europe (Austria and from northern Italy to the Balkans).  Dense growth habit, domed crown.  Trunk of older trees has a distinct pattern of brown furrows with gray, flattened ridges.  Dark green needles in bundles of two.<\/h4><\/div><\/div>"
+  },
+
+  {"id":"641",
+"lat":"36.81229",
+"lng":"-119.74774",
+"title":"Eastern Redbud",
+"dist":-1,
+"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"float: right;width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/7Jqoe9P0flEBeXF7zpTGlXL15mB8UlS03zU-p_1R0vMfH51Hwrz-Nw=w2400\" alt=\"1_Eastern_Redbud\><\/div><div id=\"desc\"><h3>Eastern Redbud<\/h3><h4>Cercis canadensis<\/h4><h4>H25-35', W20-25'<\/h4><br \/><h4>Deciduous.  Native toe eastern North America.  Rounded crown, spreading growth habit.  Large, heart-shaped leaves.  Small, rose-pink flowers cover the bare branches in early spring, followed by brown, flat, legume-like pods that persist through the winter.<\/h4><\/div><\/div>"
+  },
+
+  {"id":"642",
+"lat":"36.81254",
+"lng":"-119.74691",
+"title":"Dawn Redwood",
+"dist":-1,
+"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/7h1QyLoOyzJwMPxP8a4jOY_7zYuWncpcaM0duUL1_yGNqX6haXsPCA=w2400\" alt=\"1_Dawn Redwood\><\/div><div id=\"desc\"><h3>Dawn Redwood<\/h3><h4> Metasequoia glyptostroboides<\/h4><h4>H90', W25-35'<\/h4><br \/><h4> Deciduous conifer.Native to China.  Upright, conical growth habit.  Orange-brown bark, light bright green leaves turn bronze in fall.<\/h4><\/div><\/div>"
+  },
+
+
+{"id":"643",
+"lat":"36.81236",
+"lng":"-119.74667",
+"title":"Eley Crabapple",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/aSOXKD5cjGaNNkurBysDeLN3BC5FrYaqDbB1_WZvg_IYwxQRefK50w=w2400\" alt=\"1_Eley Crabapple\><\/div><div id=\"desc\"><h3>Eley Crabapple<\/h3><h4> Malus x purpurea \"Eleyi'<\/h4><h4>H20', W20'<\/h4><br \/><h4> Deciduous.  Hybrid origin.  Cultivar raised by and named for Charles Eley, Suffolk, England.  New foliage is purple, turning dark green when mature.  Red buds opening to pink flowers, in April.  Reddish fruit.<\/h4><\/div><\/div>"
+  },
+
+  {"id":"644",
+"lat":"36.81258",
+"lng":"-119.74647",
+"title":"Big-leaf Linden",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/NhPp8IBUmTBkfiZjO1YWMxzDVDpZk-RVPbSfKbA5CkPihhuYN33ZXg=w2400\" alt=\"1_Big-leaf Linden\><\/div><div id=\"desc\"><h3>Big-leaf Linden<\/h3><h4>Tilia platyphyllos<\/h4><h4>H30-100', W40'<\/h4><br \/><h4> Deciduous.   Native to Europe.  Broadly columnar growth habit.   Dark green leaves have paler undersides. Yellow fall color.<\/h4><\/div><\/div>"
+  },
+
+{"id":"645",
+"lat":"36.8128",
+"lng":"-119.74718",
+"title":"Yoshino flowering cherry",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/v815XuYz9nXMX5ucr03Vt16izZGGm5anC9AwB1TjjbH941BBeJonUw=w2400\" alt=\"1_Yoshino flowering cherry\><\/div><div id=\"desc\"><h3>Yoshino flowering cherry<\/h3><h4>Prunus x yedoensis 'Akebono' ('Daybreak')<\/h4><h4>H25', W30'<\/h4><br \/><h4> Deciduous.  P.x yedoensis, introduced from Japan, is believed to be a hybrid between P. speciosa x P. subhirtella or P. serrulata x P. subbirtella.  Cultivator was selected, named, and introduced by W. B. Clarke Nursery, San Jose, Calif.  Fast growing and short-lived.  Rounded, spreading habit.  Racemes of pale pink to white flowers during March-April.<\/h4><\/div><\/div>"
+  },
+
+{"id":"645",
+"lat":"36.81303",
+"lng":"-119.74717",
+"title":"Mexican Fan Palm, Thread Palm",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/6E4yPx_LWtUWtKB5-TCxsWSQFwzOAhteOz-JXAkFnv9ZzArRtS4w8g=w2400\" alt=\"1_Mexican Fan Palm, Thread Palm\><\/div><div id=\"desc\"><h3>Mexican Fan Palm, Thread Palm<\/h3><h4>Washingtonia robusta<\/h4><h4>H100'<\/h4><br \/><h4> Native to northern Mexico.  Slender, tapering trunk.  Fan-shaped, deeply lobed leaves.  Light pink flowers in long inflorescences produce copious quantities of seeds.  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"646",
+"lat":"36.81412",
+"lng":"-119.74738",
+"title":"Chinese Pistache",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/vmQPByhmOzBVFsmgR2l1ut2YRShJUXjylOaS8nAFHlrqyli7DeTF6w=w2400\" alt=\"1_Chinese Pistache\><\/div><div id=\"desc\"><h3>Chinese Pistache<\/h3><h4>Pistacia shinensis<\/h4><h4>H60', W50'<\/h4><br \/><h4> Native to China, Taiwan and the Philippine Islands.  Red-orange fall color.  Panicles of green to red, fragrant flowers in spring. Red fruit, maturing to blue and borne in clusters, is present in fall.  Deeply rooted. Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"647",
+"lat":"36.81415",
+"lng":"-119.74675",
+"title":"Deodar Cedar",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/OrDFJshok_lEA0mClILLt5ZvoKTHv5BQaG3dEc5u9EI_GlnGfZ0IjQ=w2400\" alt=\"1_Deodar Cedar\><\/div><div id=\"desc\"><h3>Deodar Cedar<\/h3><h4>Cedrus deodara<\/h4><h4>H30-100', W40-60'<\/h4><br \/><h4> Evergreen Native to the western Himalayas.  Broadly pyramidal growth habit, developing a flattened crown with age.  Spreading branches with downward-pointing tips give the tree a weeping aspect<\/h4><\/div><\/div>"
+  },
+
+
+{"id":"648",
+"lat":"36.8133",
+"lng":"-119.74675",
+"title":"Chinese Hackberry",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/VGpf6jXvB6JPjCVa4RQ2oBFSd1HmbsgC80_k7scJ6-qbwwRe_6j05Q=w2400\" alt=\"1_Chinese Hackberry\><\/div><div id=\"desc\"><h3>Chinese Hackberry<\/h3><h4>Celtis sinensis<\/h4><h4>H80-100', W40-60'<\/h4><br \/><h4>Evergreen Native to China, Korea, and Japan.  Irregular habit when young, maturing into a vase-shaped tree.  Yellow fall color.  Orange fruit, ripening to red-brown, is present in fall.  Deep-rooted.<\/h4><\/div><\/div>"
+  },
+
+{"id":"649",
+"lat":"36.81326",
+"lng":"-119.74642",
+"title":"Maidenhair Tree",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/o9cOWmDJUmtbg1Pk0u73kQyqat8qRqlE9Up4gwjGS3tBtzde1W2e8Q=w2400\" alt=\"1_Maidenhair Tree\><\/div><div id=\"desc\"><h3>Maidenhair Tree<\/h3><h4> Ginkgo biloba<\/h4><h4>H60-80', W35'<\/h4><br \/><h4>Deciduous.  Native to China.  Leaves shaped like those of maidenhair fern (flat, fan-shaped, lobed at the tip).  Golden fall color.  Only male trees are generally used in gardens; seeds of female trees have a foul-smelling covering.  Deep-rooted and drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"650",
+"lat":"36.81347",
+"lng":"-119.74625",
+"title":"Beef Wood, She-oak, Horsetail Tree",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/llh5.googleusercontent.com\/8Y-pPIU4hi6EoVkTsxqvvghyKccqmeA7Q5Ix5w4zq15nmVcKgGKwxQ=w2400\" alt=\"1_Beef Wood, She-oak, Horsetail Tree\><\/div><div id=\"desc\"><h3>Beef Wood, She-oak, Horsetail Tree<\/h3><h4>Casuarina equisetifolia<\/h4><h4>H70', W20'<\/h4><br \/><h4>Native to eastern Australia and Pacific islands.  Long, thin, green branchlets resemble pine needles.  True leaves are inconspicuous and scalelike.  Fruit is a small, woody cone.  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"651",
+"lat":"36.81325",
+"lng":"-119.74602",
+"title":"Pistachio",
+"dist":-1,
+"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/d91RBQs8IkXVCwkyxVSOrPJanaVjyiB0sZhUXDwGaiH-G5aNqXW38Q=w2400\" alt=\"1_Pistachio\><\/div><div id=\"desc\"><h3>Pistachio<\/h3><h4>Pistacia vera<\/h4><h4>H30'<\/h4><br \/><h4>Deciduous.  Native from Iran to central Asia.  Spreading growth habit.  Fruit is reddish, borne in heavy clusters.  Edible, green or yellow seeds (pistachio nuts) are within hard shells.<\/h4><\/div><\/div>"
+},
+
+{"id":"652",
+"lat":"36.81288",
+"lng":"-119.74609",
+"title":"Jelecote Pine, Mexican Weeping Pine",
+"dist":-1,
+"description":"<div id=\"infobubble\"><\/div><div id=\"desc\"><h3>Jelecote Pine, Mexican Weeping Pine<\/h3><h4>Pinus patula<\/h4><h4>H80'<\/h4><br \/><h4> Evergreen Native to Mexico.  Conical or rounded growth habit.  Light green, drooping needles in bundles of three.  Pale brown cones are 4\" long.<\/h4><\/div><\/div>"
+  },
+
+  {"id":"653",
+"lat":"36.81279",
+"lng":"-119.74612",
+"title":"Common Fig",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/dQnYHJ9b1vHs7wCjYN7nJOvdqbqizwGxD2N7n0anheIhtebHhPF-sw=w2400 \" alt=\"1_Common Fig\"><\/div><div id=\"desc\"><h3>Common Fig<\/h3><h4>Ficus carica<\/h4><h4> H15-30'<\/h4><br \/><h4>Deciduous.  Native to the eastern Mediterranean region.  Large shrub or small tree.  Trunk and branches become gnarled with age.  Large, rounded leaves have 3 or 5 deep lobes.  Edible fruit is ripe in summer.  Drought tolerant when established.<\/h4><\/div><\/div>"
+  },
+
+{"id":"654",
+"lat":"36.81276",
+"lng":"-119.746",
+"title":"Purple Robe Locust",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/Sauk73XJ7ozYBsIhQhCqv2uWkAQB5vOb9BeeqRvGRaBvSJIcajOlLg=w2400\" alt=\"1_urple Robe Locust\"><\/div><div id=\"desc\"><h3>Purple Robe Locust<\/h3><h4>Robinia x ambigua 'Purple Robe'<\/h4><h4> H40' ,W20'<\/h4><br \/><h4>Deciduous.  R. x ambigua is a hybrid between R. pseudoacacia x R. viscose.    Oval, open growth habit.  Pinnately compound leaves.  Racemes of dark rose-pink, pea-like flowers in spring.  Shallowly rooted.<\/h4><\/div><\/div>"
+  },
+
+  {"id":"655",
+"title":"Saucer Magnolia",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/mwHFpYQnIUBrcVabF2bPLu0YoLJNccJYKEywJzs5kgkG9ySKFbMjXQ=w2400\" alt=\"1_Saucer Magnolia\"><\/div><div id=\"desc\"><h3>Saucer Magnolia<\/h3><h4>Magnolia x soulangiana<\/h4><h4>H20-40', W10-30' <\/h4><br \/><h4>Deciduous.  Hybrid between M. denudate x M. liliiflora.  Spreading habit, often multi-trunked.  Large, fragrant, goblet-shaped flowers in March-April.  Petals are pink outside and whitish-inside.  Fruit is a pod that splits to reveal orange-colored seeds.  There are numerous cultivars of this tree, with a variety of flower characteristics.<\/h4><\/div><\/div>"
+  },
+
+{"id":"656",
+"lat":"36.81241",
+"lng":"-119.74602",
+"title":"Mediterranean Fan Palm, European Fan Palm",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/OTnATNABINK3vxgvYbXXoDafV8mbyFoiYclJcpIQIrYqNOoJFrYe1A=w2400\" alt=\"1_Mediterranean Fan Palm, European Fan Palm\"><\/div><div id=\"desc\"><h3>Mediterranean Fan Palm, European Fan Palm<\/h3><h4>Chamaerops humilis<\/h4><h4> H20' ,W20'<\/h4><br \/><h4>Evergreen.  Native to the Mediterranean region.  The only palm native to Europe.  Plant develops a clumping form from basal off-shoots.  Light green, fan-shaped leaves.  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"659",
+"lat":"36.81213",
+"lng":"-119.74631",
+"title":"Cabbage Palm, Palmetto Palm",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/V4z2A5OTZovl8hojHMHlVZd4h2ewxUl5En27NR-y7lduNf2t9W0WJQ=w2400\" alt=\"1_Cabbage Palm, Palmetto Palm\"><\/div><div id=\"desc\"><h3>Cabbage Palm, Palmetto Palm<\/h3><h4>Sabal palmetto<\/h4><h4>H40-50'<\/h4><br \/><h4>Evergreen.  Native to the southeastern United States and the Bahamas.  Fan-shaped, curved leaves form a dense, coarse crown.  Long panicles of cream-colored flowers in summer.<\/h4><\/div><\/div>"
+  },
+
+
+{"id":"660",
+"lat":"36.81212 ",
+"lng":"-119.74616",
+"title":"Evergreen Pear",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/_q0-ZKaZjLqzwj8JnewAhK7ofQcvFCrQQNSFTL7Q9XGcFMW2652geA=w2400\" alt=\"1_Evergreen Pear\"><\/div><div id=\"desc\"><h3>Evergreen Pear<\/h3><h4>Pyrus kawakamii<\/h4><h4>H40-50'<\/h4><br \/><h4>Evergreen.  Semi-evergreen (in Fresno).  Native to Taiwan.  Branches sometimes have thorns.  Leaves have finely serrated margins.  Fall color is yellowish-orange.  White flowers during February.  Small, inedible fruit.<\/h4><\/div><\/div>"
+  },
+
+
+{"id":"661",
+"lat":"36.81206",
+"lng":"-119.7458",
+"title":"Blue Atlas Cedar",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/-8MDfdkbka8idAJC27DRtc0CQBANk6Fs4vLY-6VjNyclNlXqz9GRyQ=w2400\" alt=\"1_Blue Atlas Cedar\"><\/div><div id=\"desc\"><h3>Blue Atlas Cedar<\/h3><h4>Cedrus atlantica 'Glauca'<\/h4><h4> H60, W30'<\/h4><br \/><h4>Evergreen.  Native to Morocco and Algeria on the foothill slopes of the Atlas mountains.  Stiff, irregular branching habit, becoming conical with age.  Silvery blue needles borne in tight clusters.  Cones borne on the upper side of branches.  Deeply rooted.<\/h4><\/div><\/div>"
+  },
+
+{"id":"662",
+"lat":"36.81155",
+"lng":"-119.74609",
+"title":"Pindo palm, jelly palm",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/DXplOVh2pLZSI10zRuSd1M2GgvmzszDKpIdojSwkK0QwtNRs7_O9fQ=w2400\" alt=\"1_Pindo palm, jelly palm\"><\/div><div id=\"desc\"><h3>Pindo palm, jelly palm<\/h3><h4>Butia capitata, Pindo palm<\/h4><h4>H20'<\/h4><br \/><h4>Evergreen.  Native to South America.  Thick-trunked.  Arching, feathery, gray-green fronds curve downward toward the trunk.  Long panicles of yellow flowers.  Orange, edible fruit.  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"663",
+"lat":"36.811",
+"lng":"-119.74605",
+"title":"Chaste Tree, Hemp Tree",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/_vmNnTAMeG7vsEqmFIPhwVu2jjgpykjybwTa7Hzq1yki7ZzZ3ck-tQ=w2400\" alt=\"1_Chaste Tree, Hemp Tree\"><\/div><div id=\"desc\"><h3>Chaste Tree, Hemp Tree<\/h3><h4>Vitex agnus-castus<\/h4><h4>H8'-25'<\/h4><br \/><h4>Deciduous.  Native from southern Europe to western Asia.  Shrub-like, often multi-trunked tree.  Open, spreading habit.  Dark green, palmate leaves have 5-7 leaflets.  Upright, terminal panicles of small, lavender-blue flowers in summer and sometimes again in autumn.  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"664",
+"lat":"36.8114",
+"lng":"-119.74986",
+"title":"Jacaranda",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/BW3pHZ-09C958V1ui-4PM2yZ_G3hlC7CcXTRa2A5Ejme89oSlC4GNg=w2400\" alt=\"1_Jacaranda\"><\/div><div id=\"desc\"><h3>Jacaranda<\/h3><h4> Jacaranda mimosifolia<\/h4><h4>H40', W15-30'<\/h4><br \/><h4> Deciduous.  Native to South America.  Open, spreading, vase-shaped tree that can have multiple trunks.  Finely cut foliage.  Pyramidal panicles of purple-blue flowers can be present from April to early summer.<\/h4><\/div><\/div>"
+  },
+
+
+{"id":"665",
+"lat":"36.81098",
+"lng":"-119.75005",
+"title":"Sawleaf Zelkova, Japanese Zelkova",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/-M4PY-QhWVg7ClC6PrS1UI_EwGil87m9T3UGeILWYufKyIzPZnjmCw=w2400\" alt=\"1_Sawleaf Zelkova, Japanese Zelkova\"><\/div><div id=\"desc\"><h3>Sawleaf Zelkova, Japanese Zelkova<\/h3><h4> Jacaranda mimosifolia<\/h4><h4>  H60-90', W60-90'<\/h4><br \/><h4> Deciduous.  Native to Japan, Korea, Taiwan, and Manchuria.  Vase-shaped tree.  Toothed leaves are elm-like but rougher in texture.  Yellow, orange, or red fall color.  Deeply rooted.<\/h4><\/div><\/div>"
+  },
+
+
+{"id":"666",
+"lat":"36.81145",
+"lng":"-119.75005",
+"title":"Bald Cypress",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/U7KG-uIpveBrGd1c0ipLTbJCj3o9b9L2gPztq94b6zhy23tEgt1jbg=w2400\" alt=\"1_Bald Cypress\"><\/div><div id=\"desc\"><h3>Bald Cypress<\/h3><h4> Taxodium distichum<\/h4><h4> H60-125', W30-75' <\/h4><br \/><h4> Deciduous conifer.  Native to swamp areas of the southeastern and Midwestern United States.  Narrowly conical growth habit.  Orange-brown fall color.<\/h4><\/div><\/div>"
+  },
+
+{"id":"667",
+"lat":"36.811",
+"lng":"-119.75147",
+"title":"Strawberry Tree",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/gCkNlLn7uyUObQ0gxvhIW33QrFHF5TDWyjEbIl-lvKv7KtdgRv0NKw=w2400\" alt=\"1_Strawberry Tree\"><\/div><div id=\"desc\"><h3>Strawberry Tree<\/h3><h4>Arbutus unedo<\/h4><h4>H25', W25' <\/h4><br \/><h4>Evergreen.  Native to the Mediterranean region and Ireland.  Large shrub or small, often multi-trunked tree.  Leathery, dark green leaves.  Both its white flowers and the fruit can be present at the same time, in fall and winter.  Round fruit, maturing from yellow to red, with a granular surface texture.<\/h4><\/div><\/div>"
+  },
+
+{"id":"668",
+"lat":"36.81122",
+"lng":"-119.75059",
+"title":"Bradford Pear",
+"dist":-1,"description":"<div id=\"infobubble\"><\/div><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/cv3cz11vLH7WWHLfKHUdd2g90RE2PUpN6_BOxm1mFecq_ZjQtxX6vg=w2400\" alt=\"1_Bradford Pear\"><\/div><div id=\"desc\"><h3>Bradford Pear<\/h3><h4>Pyrus calleryana 'Bradford'<\/h4><h4>H30-50' <\/h4><br \/><h4>Deciduous.  Species is native to China and Korea.  Narrowly conical growth habit when young, becoming oval or round with age.  Dark green, glossy leaves have purplish red fall color.  Umbel-like racemes of white flowers in spring.<\/h4><\/div><\/div>"
+  },
+
+
+{"id":"669",
+"lat":"36.8119",
+"lng":"-119.75053",
+"title":"White Mulberry",
+"dist":-1,"description":"<div id=\"infobubble\"><\/div><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/Etr9Cy7biOJWXXfZC8V1B51FdT7ZcaPP-oCUA0u95M3U-Cockw7jaw=w2400\" alt=\"1_White Mulberry\"><\/div><div id=\"desc\"><h3>White Mulberry<\/h3><h4>Morus alba<\/h4><h4>H30-50', W30-50'<\/h4><br \/><h4>Deciduous.  Native to China.  Dense, spreading habit; rounded crown.  Large, sometimes-lobed leaves.  Flowers are inconspicuous but white fruit, ripening to pink, red, or purple, is abundant.  There are also fruitless and weeping varieties.  Shallowly rooted.<\/h4><\/div><\/div>"
+  },
+
+{"id":"670",
+"lat":"36.81215",
+"lng":"-119.75057",
+"title":"Giant Sequoia",
+"dist":-1,"description":"<div id=\"infobubble\"><\/div><div id=\"desc\"><h3>Giant Sequoia<\/h3><h4>Sequoiadendron giganteum<\/h4><h4>H to 300', W 100'<\/h4><br \/><h4> Evergreen.  Native to the Sierra Nevada of California.  Conical growth habit when young, becoming columnar.  Bark is reddish brown, fire-resistant.  Dense, gray-green, scalelike foliage.  This specimen was planted in 1990.<\/h4><\/div><\/div>"
+  },
+
+{"id":"671",
+"lat":"36.81223",
+"lng":"-119.75098",
+"title":"Mediterranean Fan Palm, European Fan Palm 2",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/IvL0s3TuO1mzCc0k5b1kRIBuQDiuGVZVzLkzD-inL1cvf7oDZrho-A=w2400\" alt=\"1_Mediterranean Fan Palm, European Fan Palm\"><\/div><div id=\"desc\"><h3>editerranean Fan Palm, European Fan Palm<\/h3><h4>Chamaerops humilis<\/h4><h4>H20', W 20'<\/h4><br \/><h4> Evergreen.  Native to the Mediterranean region.  The only palm native to Europe.  Plant develops a clumping form from basal off-shoots.  Light green, fan-shaped leaves.  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"672",
+"lat":"36.81245",
+"lng":"-119.75104",
+"title":"Queen Palm",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/Yb78to_XLEuVOMQYBWtH26-McXscRgxGQ0WX6_Bqya1666aNdrco-w=w2400\" alt=\"1_Queen Palm\"><\/div><div id=\"desc\"><h3>Queen Palm<\/h3><h4> Sygarus romanzoffianum (Arecastrum romanzoffianum)<\/h4><h4> H50'<\/h4><br \/><h4>Evergreen.  Native to Argentina and Brazil.  Single trunk with open crown of long, pinnately compound leaves.  Panicles of whitish-yellow flowers followed by orange-colored, inedible fruit.<\/h4><\/div><\/div>"
+  },
+
+
+{"id":"673",
+"lat":"36.81242",
+"lng":"-119.75052",
+"title":"Cinnamon Camphor",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/r3ofTjjo6eCfQGPnA-vhr3Nrvmve-j7nnaz6vR_Qvw4t7qMzsZk9iQ=w2400\" alt=\"1_Cinnamon Camphor\"><\/div><div id=\"desc\"><h3>Cinnamon Camphor<\/h3><h4> Cinnamomum camphora<\/h4><h4>  H50', W30-60'<\/h4><br \/><h4>Evergreen.  Native to Japan, China, and Taiwan.  Aromatic foliage is yellow-green in winter.  Drops older leaves in March.  New foliage is pink, red, or bronze.  Fragrant, yellowish-white flowers present in May, followed by small, black fruit.  Shallowly rooted.<\/h4><\/div><\/div>"
+  },
+
+{"id":"674",
+"lat":"36.81364",
+"lng":"-119.75072",
+"title":"Star Magnolia",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/PaeTWUj-KMsDZO3MTM4-P3UIGGEEOtqVOv2ccm8h9nwvwSpT5WVXlg=w2400\" alt=\"1_Star Magnolia\"><\/div><div id=\"desc\"><h3>Star Magnolia<\/h3><h4> Magnolia stellata (M. kobus var. stellata)<\/h4><h4> H15-20', W15'<\/h4><br \/><h4>Deciduous.  Native to Japan.  Dense, rounded shrub or small tree.  Bronze-yellow fall color.  Star-shaped, white flowers with 12-18 narrow petals are present before the new leaves in March.<\/h4><\/div><\/div>"
+  },
+
+{"id":"675",
+"lat":"36.81355",
+"lng":"-119.75037",
+"title":"Chinese Sweet Gum, Formosan Sweet Gum",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/ZszGOTr7eMVrFuF65rdD-eZtnCGU763Qdfj00SLr7sXFzWPq9fVqsQ=w2400\" alt=\"1_Chinese Sweet Gum, Formosan Sweet Gum\"><\/div><div id=\"desc\"><h3>Chinese Sweet Gum, Formosan Sweet Gum<\/h3><h4>Liquidambar formosana<\/h4><h4> H40-60', W25' <\/h4><br \/><h4>Deciduous.  Native to China and Taiwan.  Conical growth habit when young.  Leaves have three lobes.  Fall color is yellow to orange.<\/h4><\/div><\/div>"
+  },
+
+
+{"id":"676",
+"lat":"36.81378",
+"lng":"-119.74989",
+"title":"Weeping Bottlebrush",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/-bjtoF7VOM4UFlkh3doWvQjww3xp_DarFPdFpauVfAX0n8PVF1XnHg=w2400\" alt=\"1_Weeping Bottlebrush\"><\/div><div id=\"desc\"><h3>Weeping Bottlebrush<\/h3><h4>Callistemon viminalis<\/h4><h4> H20-30', W15' <\/h4><br \/><h4>Evergreen.  Native to Australia.  Large shrub or small tree.  Long, narrow, light green leaves that grow at the ends of branches cause the weeping effect.  Terminal clusters of bottlebrush-like flowers with long, red stamens are present from late spring to summer.<\/h4><\/div><\/div>"
+  },
+
+{"id":"677",
+"lat":"36.81421",
+"lng":"-119.75029",
+"title":"Western Redbud, California Redbud",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/MF9_q2v7CSlqwPg6GWL0GfF87o9s50aO1b2_Ia8i-mCSTG_CvpDung=w2400\" alt=\"1_Western Redbud, California Redbud\"><\/div><div id=\"desc\"><h3>Western Redbud, California Redbud<\/h3><h4>Cercis occidentalis<\/h4><h4> H20', W20'<\/h4><br \/><h4>Deciduous.Native to California, Utah, and Arizona.  Found in foothills of the Sierra Nevada from 1,000'-4000' in elevation.  Usually multi-trunked.  Stakeless clusters of pink to magenta flowers are borne along the branches and trunk during March and April.  Fruit is a brown seed pod.  Drought tolerant when established.<\/h4><\/div><\/div>"
+  },
+
+{"id":"678",
+"lat":"36.8144",
+"lng":"-119.75033",
+"title":"California Black oak",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/n6p1Y72wx0K2cFkCQQetcxm0tkc0VPv3oXxOIHnkHbK9umSmJC7MTw=w2400\" alt=\"1_California Black oak\"><\/div><div id=\"desc\"><h3>California Black oak<\/h3><h4> Quercus kelloggii<\/h4><h4> H30-80', W30'<\/h4><br \/><h4>Deciduous.  Native to the United States.  Broadly conical with rounded crown when mature.  Smooth, gray-brown bark.  Glossy leaves have deeply cut and parted lobes.  Yellow to red-brown fall color.<\/h4><\/div><\/div>"
+  },
+
+{"id":"679",
+"lat":"36.81477",
+"lng":"-119.74942",
+"title":"Evergreen Maple",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/cdiSCbyyTmAOWmnQmyJuLX6-FRnU8KnecXglUeH-TfjnTWCYEJgnzg=w2400\" alt=\"1_Evergreen Maple\"><\/div><div id=\"desc\"><h3>Evergreen Maple<\/h3><h4> Acer oblongum<\/h4><h4>H25', W30' <\/h4><br \/><h4>Evergreen or partially evergreen.Native to the Himalayas and China.  Dense, rounded growth habit.  Narrow, deep green leaves.  Fruit is winged samara.<\/h4><\/div><\/div>"
+  },
+
+
+{"id":"680",
+"lat":"36.81556",
+"lng":"-119.74917",
+"title":"Honey Locust",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/fxGh929-5naoLX6Hmqu-lMswjkDbrNxwDvbHXk8aHDx2-cgoXzxagA=w2400\" alt=\"1_Honey Locust\"><\/div><div id=\"desc\"><h3>Honey Locust<\/h3><h4>Gleditsia Triacanthos var<\/h4><h4>H35-70'<\/h4><br \/><h4>Deciduous.  Native to central and eastern North America.  Spreading growth habit.  This variety is thornless; others have thorns on the trunk and branches.  Compound leaves have yellow fall color.<\/h4><\/div><\/div>"
+  },
+
+{"id":"681",
+"lat":"36.81564",
+"lng":"-119.74922",
+"title":"Japanese Flowering Crabapple",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/AiDrYPAMtwEzYSIqJPx5tH5MjfY7supG5t6yJhiysxJO75EMv8inlw=w2400\" alt=\"1_Japanese Flowering Crabapple\"><\/div><div id=\"desc\"><h3>Japanese Flowering Crabapple<\/h3><h4>Malus floribunda<\/h4><h4>H30', W30'<\/h4><br \/><h4>Deciduous.  May be of hybrid origin; introduced from Japan in 1862.  Deep pink buds open into pale pink or white flowers during March-April.  Small, yellow fruit.<\/h4><\/div><\/div>"
+  },
+
+{"id":"682",
+"lat":"36.816",
+"lng":"-119.74794",
+"title":"Raywood Ash",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh3.googleusercontent.com\/SlqFhjKQpjJidKMRrjlkIKWegAjCLDsrAmcaLgV_K56reEVJXg1EZw=w2400\" alt=\"1_Raywood Ash\"><\/div><div id=\"desc\"><h3>Raywood Ash<\/h3><h4>Fraxinus oxycarpa (F. angustifolia) 'Raywood'<\/h4><h4> H25-35', W30-'40'<\/h4><br \/><h4>Deciduous.  Species is native to southwestern Europe and North Africa.  Compact, rounded crown.  Fine-textured foliage turns purple-red in fall.<\/h4><\/div><\/div>"
+  },
+
+
+{"id":"683",
+"lat":"36.81553",
+"lng":"-119.74784",
+"title":"Italian Cypress",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/3exEGsGXfqTzmjnA4Ec1Jv9Ecqh-hwmQKDHLhYfSGcGBVP1XgmHJbQ=w2400\" alt=\"1_Italian Cypress\"><\/div><div id=\"desc\"><h3>Italian Cypress<\/h3><h4>Cupressus sempervirens 'Stricta'<\/h4><h4> H60', W8'<\/h4><br \/><h4>Evergreen.  Native to the eastern Mediterranean region and western Asia.  Upright, narrowly columnar growth habit.  Dark green foliage.  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+{"id":"684",
+"lat":"36.81517",
+"lng":"-119.74863",
+"title":"Red Ironbark",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh4.googleusercontent.com\/xOJyR2t3xgiBnp8zIaddV66HX4SEp7F5tt781EVw5aHHxxkykSTXUw=w2400\" alt=\"1_Red Ironbark\"><\/div><div id=\"desc\"><h3>Red Ironbark<\/h3><h4>Eucalyptus sideroxylon 'Rosea'<\/h4><h4> H30-50'<\/h4><br \/><h4>Evergreen.  Native to Australia.  Red-brown bark.  Slender, blue-green leaves turn bronze in winter.  Red or deep rose flowers borne in umbels.<\/h4><\/div><\/div>"
+  },
+
+{"id":"685",
+"lat":"36.81413",
+"lng":"-119.74879",
+"title":"Aleppo Pine",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/XtLciKTOj6qTE9J760zpgHNCUlJQ745Ckrrho1Y6N10i4w6ps53WZA=w2400\" alt=\"1_Aleppo Pine\"><\/div><div id=\"desc\"><h3>Aleppo Pine<\/h3><h4>Pinus halepensis<\/h4><h4> H30-60', W20-30'<\/h4><br \/><h4>Evergreen.  Native to the Mediterranean region.  Open growth habit and rounded crown when mature.  Short, light green needles in bundles of two.  Drought tolerant.<\/h4><\/div><\/div>"
+  },
+
+
+{"id":"686",
+"lat":"36.81358",
+"lng":"-119.74906",
+"title":"White Alder",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/x4BM6JMP6bqtZZYwTd-Tiizkf7zZM_9c09muReIHIYlUzzH_zYgQ2A=w2400\" alt=\"1_White Alder\"><\/div><div id=\"desc\"><h3>White Alder<\/h3><h4> Alnus rhombifolia<\/h4><h4>H50-90', W 40'<\/h4><br \/><h4>Deciduous.  Native to coastal areas, along stream banks, from British Columbia to California.  Coarsely toothed, dark green leaves have paler undersides.  Flowers are greenish-yellow catkins.  Fruit is a small, brown, woody cone.<\/h4><\/div><\/div>"
+  },
+
+{"id":"687",
+"lat":"36.81359",
+"lng":"-119.74883",
+"title":"Coast Redwood, California Redwood",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/okoGspKIidfCYDnDbITrOOrs5JSAYGUIUDJ_eL53ar4aQgh5pKN1Vg=w2400\" alt=\"1_Coast Redwood, California Redwood\"><\/div><div id=\"desc\"><h3>Coast Redwood, California Redwood<\/h3><h4>Sequoia sempervirens<\/h4><h4>H120', W20-30'<\/h4><br \/><h4>Evergreen.  Native to the coastal ranges of Oregon and northern California.  Conical, moderately dense growth habit.  Dark green, needle-like leaves.<\/h4><\/div><\/div>"
+  },
+
+{"id":"688",
+"lat":"36.81344",
+"lng":"-119.74857",
+"title":"Silk Oak",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh6.googleusercontent.com\/gfvP0HtpuTIGx2saXx09ICBWo1jsAQ8kwfE6g6XvQ4V764BSSzlFOQ=w2400\" alt=\"1_Silk Oak\"><\/div><div id=\"desc\"><h3>Silk Oak<\/h3><h4>Grevillea robusta<\/h4><h4>H50-75', W25-30' <\/h4><br \/><h4>Evergreen.  Native to Australia.  Conical when young; crown broadens with age.  Fernlike leaves are dark green with pale undersides.  Large clusters of deep orange flowers in May.<\/h4><\/div><\/div>"
+  },
+
+{"id":"689",
+"lat":"36.8108",
+"lng":"-119.74884",
+"title":"Chinese Elm, Lacebark Elm",
+"dist":-1,"description":"<div id=\"infobubble\"><div id=\"img\"><img style=\"width: 70px;height:90px;\" src=\"https:\/\/lh5.googleusercontent.com\/jd4P57dAoLcvHNIVM1G0YHm0V7Ylq_Q00M2fsUqkSsBEa_k-6LrQgg=w2400\" alt=\"1_Chinese Elm, Lacebark Elm\"><\/div><div id=\"desc\"><h3>Chinese Elm, Lacebark Elm<\/h3><h4>Ulmus parvifolia<\/h4><h4>H40-60', W50-70' <\/h4><br \/><h4>Semi-evergreen.  Native to China, Japan, and Korea.  Upright growth habit with rounded crown.  Bark of older trees flakes off to reveal orange-colored inner bark.  Yellow-orange fall color.<\/h4><\/div><\/div>"}];   all_markers.searchTrees = points; points = [];
